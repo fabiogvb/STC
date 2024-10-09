@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1700pt"
+   height="1100pt"
+   viewBox="0 0 1700 1100"
+   version="1.1"
+   id="svg1658"
+   sodipodi:docname="pyGenomeViz_WGSsxExclusiveBMCstc.paper.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1660"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     height="1100pt"
+     inkscape:zoom="0.27187681"
+     inkscape:cx="1221.1413"
+     inkscape:cy="695.16777"
+     inkscape:window-width="1673"
+     inkscape:window-height="779"
+     inkscape:window-x="1920"
+     inkscape:window-y="132"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1658" />
+  <metadata
+     id="metadata947">
+    <rdf:rdf>
+      <cc:work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2024-10-09T22:47:35.114933</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:agent>
+            <dc:title>Matplotlib v3.9.2, https://matplotlib.org/</dc:title>
+          </cc:agent>
+        </dc:creator>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs
+     id="defs951">
+    <style
+       type="text/css"
+       id="style949">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="m011d89029c"
+       d="M 0,0 V 3.5"
+       style="stroke:#000000;stroke-width:0.8" />
+  </defs>
+  <g
+     id="xtick_1" />
+  <g
+     id="xtick_2" />
+  <g
+     id="xtick_3" />
+  <g
+     id="xtick_4" />
+  <g
+     id="xtick_5" />
+  <g
+     id="xtick_6" />
+  <g
+     id="xtick_7" />
+  <g
+     id="xtick_8" />
+  <g
+     id="xtick_9" />
+  <g
+     id="ytick_1" />
+  <g
+     id="ytick_2" />
+  <g
+     id="ytick_3" />
+  <g
+     id="ytick_4" />
+  <g
+     id="ytick_5" />
+  <g
+     id="xtick_10" />
+  <g
+     id="xtick_11" />
+  <g
+     id="xtick_12" />
+  <g
+     id="xtick_13" />
+  <g
+     id="xtick_14" />
+  <g
+     id="xtick_15" />
+  <g
+     id="xtick_16" />
+  <g
+     id="xtick_17" />
+  <g
+     id="xtick_18" />
+  <g
+     id="ytick_6" />
+  <g
+     id="ytick_7" />
+  <g
+     id="ytick_8" />
+  <g
+     id="ytick_9" />
+  <g
+     id="ytick_10" />
+  <g
+     id="xtick_19" />
+  <g
+     id="xtick_20" />
+  <g
+     id="xtick_21" />
+  <g
+     id="xtick_22" />
+  <g
+     id="xtick_23" />
+  <g
+     id="xtick_24" />
+  <g
+     id="xtick_25" />
+  <g
+     id="xtick_26" />
+  <g
+     id="xtick_27" />
+  <g
+     id="ytick_11" />
+  <g
+     id="ytick_12" />
+  <g
+     id="ytick_13" />
+  <g
+     id="ytick_14" />
+  <g
+     id="ytick_15" />
+  <g
+     id="xtick_28" />
+  <g
+     id="xtick_29" />
+  <g
+     id="xtick_30" />
+  <g
+     id="xtick_31" />
+  <g
+     id="xtick_32" />
+  <g
+     id="xtick_33" />
+  <g
+     id="xtick_34" />
+  <g
+     id="xtick_35" />
+  <g
+     id="xtick_36" />
+  <g
+     id="ytick_18" />
+  <g
+     id="ytick_19" />
+  <g
+     id="ytick_20" />
+  <g
+     id="xtick_37" />
+  <g
+     id="xtick_38" />
+  <g
+     id="xtick_39" />
+  <g
+     id="xtick_40" />
+  <g
+     id="xtick_41" />
+  <g
+     id="xtick_42" />
+  <g
+     id="xtick_43" />
+  <g
+     id="xtick_44" />
+  <g
+     id="xtick_45" />
+  <g
+     id="ytick_21" />
+  <g
+     id="ytick_22" />
+  <g
+     id="ytick_23" />
+  <g
+     id="xtick_46" />
+  <g
+     id="xtick_47" />
+  <g
+     id="xtick_48" />
+  <g
+     id="xtick_49" />
+  <g
+     id="xtick_50" />
+  <g
+     id="xtick_51" />
+  <g
+     id="xtick_52" />
+  <g
+     id="xtick_53" />
+  <g
+     id="xtick_54" />
+  <g
+     id="ytick_24" />
+  <g
+     id="ytick_25" />
+  <g
+     id="ytick_26" />
+  <g
+     id="ytick_27" />
+  <g
+     id="ytick_28" />
+  <g
+     id="ytick_29" />
+  <defs
+     id="defs1656">
+    <clipPath
+       id="pcfc6b15e94">
+      <rect
+         x="818.9906"
+         y="256.47375"
+         width="1080"
+         height="31.5"
+         id="rect1644" />
+    </clipPath>
+    <clipPath
+       id="p21f2fd726a">
+      <rect
+         x="818.9906"
+         y="413.97375"
+         width="1080"
+         height="31.5"
+         id="rect1647" />
+    </clipPath>
+    <clipPath
+       id="pbf3f7fc4d8">
+      <rect
+         x="818.9906"
+         y="571.47375"
+         width="1080"
+         height="31.5"
+         id="rect1650" />
+    </clipPath>
+    <clipPath
+       id="p86fe23f76b">
+      <rect
+         x="818.9906"
+         y="728.97375"
+         width="1080"
+         height="31.5"
+         id="rect1653" />
+    </clipPath>
+  </defs>
+  <g
+     id="g29216"
+     transform="translate(-312.4852,263.40056)">
+    <path
+       d="M 818.99063,413.97374 H 1898.9906 v -126 H 818.99063 Z"
+       style="fill:none"
+       id="path956" />
+    <path
+       d="m 947.1179,413.97374 h -13.99091 l 47.66727,-126 h 14.43273 l -48.10909,126"
+       style="opacity:0.8;fill:#a7a7a7;stroke:#a7a7a7;stroke-width:0.1;stroke-linejoin:miter"
+       id="path959" />
+    <path
+       d="M 1069.9434,413.97374 H 947.26517 l 47.56909,-126 h 124.00364 l -48.8945,126"
+       style="opacity:0.8;fill:#d3d3d3;stroke:#d3d3d3;stroke-width:0.1;stroke-linejoin:miter"
+       id="path962" />
+    <path
+       d="m 1098.0724,413.97374 h -28.129 l 48.6981,-126 h 28.5709 l -49.14,126"
+       style="opacity:0.8;fill:#d8d8d8;stroke:#d8d8d8;stroke-width:0.1;stroke-linejoin:miter"
+       id="path965" />
+    <path
+       d="m 1170.2361,413.97374 h -69.2182 l 49.5327,-126 h 69.9546 l -50.2691,126"
+       style="opacity:0.8;fill:#ababab;stroke:#ababab;stroke-width:0.1;stroke-linejoin:miter"
+       id="path968" />
+    <path
+       d="m 1192.4743,413.97374 h -20.4709 l 50.1218,-126 h 20.6182 l -50.2691,126"
+       style="opacity:0.8;fill:#acacac;stroke:#acacac;stroke-width:0.1;stroke-linejoin:miter"
+       id="path971" />
+    <path
+       d="m 1240.4361,413.97374 h -45.9491 l 51.6436,-126 h 47.7164 l -53.4109,126"
+       style="opacity:0.8;fill:#d3d3d3;stroke:#d3d3d3;stroke-width:0.1;stroke-linejoin:miter"
+       id="path974" />
+    <path
+       d="m 1295.6143,413.97374 h -55.3746 l 55.1291,-126 h 49.0418 l -48.7963,126"
+       style="opacity:0.8;fill:#b8b8b8;stroke:#b8b8b8;stroke-width:0.1;stroke-linejoin:miter"
+       id="path977" />
+    <path
+       d="m 1300.7197,413.97374 h 14.7273 l 57.0927,-126 h -14.8745 l -56.9455,126"
+       style="opacity:0.8;fill:#c8c8c8;stroke:#c8c8c8;stroke-width:0.1;stroke-linejoin:miter"
+       id="path980" />
+    <path
+       d="m 1318.147,413.97374 h 14.7273 l 57.8781,-126 h -15.3163 l -57.2891,126"
+       style="opacity:0.8;fill:#949494;stroke:#949494;stroke-width:0.1;stroke-linejoin:miter"
+       id="path983" />
+    <path
+       d="m 1335.2797,413.97374 h 68.6291 l 58.1727,-126 h -69.3654 l -57.4364,126"
+       style="opacity:0.8;fill:#aeaeae;stroke:#aeaeae;stroke-width:0.1;stroke-linejoin:miter"
+       id="path986" />
+    <path
+       d="m 1404.007,413.97374 h 40.9418 l 58.0255,-126 h -41.0891 l -57.8782,126"
+       style="opacity:0.8;fill:#c5c5c5;stroke:#c5c5c5;stroke-width:0.1;stroke-linejoin:miter"
+       id="path989" />
+    <path
+       d="m 1445.2434,413.97374 h 30.3381 l 57.8291,-126 h -25.3309 l -62.8363,126"
+       style="opacity:0.8;fill:#a0a0a0;stroke:#a0a0a0;stroke-width:0.1;stroke-linejoin:miter"
+       id="path992" />
+    <path
+       d="m 1475.3852,413.97374 h 61.56 l 63.72,-126 h -50.22 l -75.06,126"
+       style="opacity:0.8;fill:#bfbfbf;stroke:#bfbfbf;stroke-width:0.1;stroke-linejoin:miter"
+       id="path995" />
+    <path
+       d="m 1541.1179,413.97374 h 47.1273 l 66.42,-126 h -53.9018 l -59.6455,126"
+       style="opacity:0.8;fill:#c3c3c3;stroke:#c3c3c3;stroke-width:0.1;stroke-linejoin:miter"
+       id="path998" />
+    <path
+       d="m 1595.4615,413.97374 h 108.6873 l 57.6327,-126 h -109.7181 l -56.6019,126"
+       style="opacity:0.8;fill:#e8e8e8;stroke:#e8e8e8;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1001" />
+    <path
+       d="M 818.99063,571.47374 H 1898.9906 v -126 H 818.99063 Z"
+       style="fill:none"
+       id="path1021" />
+    <path
+       d="m 1059.4379,571.47374 h -13.9909 l -112.32001,-126 h 13.99091 l 112.32,126"
+       style="opacity:0.8;fill:#909090;stroke:#909090;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1024" />
+    <path
+       d="m 1181.3797,571.47374 h -121.7945 l -112.32003,-126 h 122.67823 l 111.4363,126"
+       style="opacity:0.8;fill:#aeaeae;stroke:#aeaeae;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1027" />
+    <path
+       d="m 1209.8034,571.47374 h -28.2764 l -111.5836,-126 h 28.129 l 111.731,126"
+       style="opacity:0.8;fill:#a4a4a4;stroke:#a4a4a4;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1030" />
+    <path
+       d="m 1282.1634,571.47374 h -69.2182 l -111.9273,-126 h 69.2182 l 111.9273,126"
+       style="opacity:0.8;fill:#848484;stroke:#848484;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1033" />
+    <path
+       d="m 1304.4506,571.47374 h -20.4709 l -111.9763,-126 h 20.4709 l 111.9763,126"
+       style="opacity:0.8;fill:#8e8e8e;stroke:#8e8e8e;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1036" />
+    <path
+       d="m 1354.5724,571.47374 h -48.1581 l -111.9273,-126 h 45.9491 l 114.1363,126"
+       style="opacity:0.8;fill:#a5a5a5;stroke:#a5a5a5;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1039" />
+    <path
+       d="m 1404.5961,571.47374 h -50.22 l -114.1364,-126 h 55.3746 l 108.9818,126"
+       style="opacity:0.8;fill:#8d8d8d;stroke:#8d8d8d;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1042" />
+    <path
+       d="m 1414.807,571.47374 h 14.7273 l -114.0873,-126 h -14.7273 l 114.0873,126"
+       style="opacity:0.8;fill:#a7a7a7;stroke:#a7a7a7;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1045" />
+    <path
+       d="m 1432.2343,571.47374 h 14.7272 l -114.0872,-126 h -14.7273 l 114.0873,126"
+       style="opacity:0.8;fill:#868686;stroke:#868686;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1048" />
+    <path
+       d="m 1448.7288,571.47374 h 69.2182 l -114.0382,-126 h -68.6291 l 113.4491,126"
+       style="opacity:0.8;fill:#8e8e8e;stroke:#8e8e8e;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1051" />
+    <path
+       d="m 1518.0452,571.47374 h 40.6472 l -113.7436,-126 h -40.9418 l 114.0382,126"
+       style="opacity:0.8;fill:#a0a0a0;stroke:#a0a0a0;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1054" />
+    <path
+       d="m 1558.8888,571.47374 h 30.4855 l -113.7928,-126 h -30.3381 l 113.6454,126"
+       style="opacity:0.8;fill:#828282;stroke:#828282;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1057" />
+    <path
+       d="m 1589.1779,571.47374 h 61.56 l -113.7927,-126 h -61.56 l 113.7927,126"
+       style="opacity:0.8;fill:#9d9d9d;stroke:#9d9d9d;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1060" />
+    <path
+       d="m 1650.787,571.47374 h 51.2509 l -113.7927,-126 h -47.1273 l 109.6691,126"
+       style="opacity:0.8;fill:#9d9d9d;stroke:#9d9d9d;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1063" />
+    <path
+       d="m 1709.1561,571.47374 h 108.54 l -113.5473,-126 h -108.6873 l 113.6946,126"
+       style="opacity:0.8;fill:#9c9c9c;stroke:#9c9c9c;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1066" />
+    <path
+       d="M 818.99063,728.97374 H 1898.9906 v -126 H 818.99063 Z"
+       style="fill:none"
+       id="path1086" />
+    <path
+       d="m 1377.6452,728.97374 h 69.2182 l 71.0836,-126 h -69.2182 l -71.0836,126"
+       style="opacity:0.8;fill:#8a8a8a;stroke:#8a8a8a;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1089" />
+    <path
+       d="m 1446.9615,728.97374 h 40.6473 l 71.0836,-126 h -40.6472 l -71.0837,126"
+       style="opacity:0.8;fill:#979797;stroke:#979797;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1092" />
+    <path
+       d="m 1487.7561,728.97374 h 30.4854 l 71.1328,-126 h -30.4855 l -71.1327,126"
+       style="opacity:0.8;fill:#818181;stroke:#818181;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1095" />
+    <path
+       d="m 1518.0452,728.97374 h 61.4127 l 71.28,-126 h -61.56 l -71.1327,126"
+       style="opacity:0.8;fill:#979797;stroke:#979797;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1098" />
+    <path
+       d="m 1579.507,728.97374 h 51.2509 l 71.28,-126 h -51.2509 l -71.28,126"
+       style="opacity:0.8;fill:#959595;stroke:#959595;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1101" />
+    <path
+       d="m 1632.0834,728.97374 h 114.4309 l 71.1818,-126 h -108.54 l -77.0727,126"
+       style="opacity:0.8;fill:#959595;stroke:#959595;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1104" />
+    <path
+       d="m 988.79608,728.97374 h -13.99091 l 70.64183,-126 h 13.9909 l -70.64182,126"
+       style="opacity:0.8;fill:#868686;stroke:#868686;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1107" />
+    <path
+       d="M 1110.4434,728.97374 H 988.94335 l 70.64185,-126 h 121.7945 l -70.9363,126"
+       style="opacity:0.8;fill:#9b9b9b;stroke:#9b9b9b;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1110" />
+    <path
+       d="m 1138.7688,728.97374 h -28.1291 l 70.8873,-126 h 28.2764 l -71.0346,126"
+       style="opacity:0.8;fill:#8e8e8e;stroke:#8e8e8e;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1113" />
+    <path
+       d="m 1211.1779,728.97374 h -69.2182 l 70.9855,-126 h 69.2182 l -70.9855,126"
+       style="opacity:0.8;fill:#838383;stroke:#838383;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1116" />
+    <path
+       d="m 1233.4161,728.97374 h -20.4709 l 71.0345,-126 h 20.4709 l -71.0345,126"
+       style="opacity:0.8;fill:#828282;stroke:#828282;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1119" />
+    <path
+       d="m 1283.5379,728.97374 h -48.1582 l 71.0346,-126 h 48.1581 l -71.0345,126"
+       style="opacity:0.8;fill:#9b9b9b;stroke:#9b9b9b;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1122" />
+    <path
+       d="m 1333.5615,728.97374 h -50.22 l 71.0346,-126 h 50.22 l -71.0346,126"
+       style="opacity:0.8;fill:#898989;stroke:#898989;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1125" />
+    <path
+       d="m 1343.7234,728.97374 h 14.7272 l 71.0837,-126 h -14.7273 l -71.0836,126"
+       style="opacity:0.8;fill:#a5a5a5;stroke:#a5a5a5;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1128" />
+    <path
+       d="m 1361.1506,728.97374 h 14.7273 l 71.0836,-126 h -14.7272 l -71.0837,126"
+       style="opacity:0.8;fill:#858585;stroke:#858585;stroke-width:0.1;stroke-linejoin:miter"
+       id="path1131" />
+    <path
+       d="m 1920.5906,760.47374 h 10.8 v -151.2 h -10.8 z"
+       style="fill:#ffffff"
+       id="path1151" />
+    <image
+       xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAA8AAADSCAYAAACVdpq7AAAAp0lEQVR4nO3V0Q0DIRAD0UuU/iu7biiA1LCc5Gji2X/0DFjwWmvd1+F89t6na6/38UquDI2tnJR/F7txz1DZkgynsSSNMjS2clKGxlZOytDYfu5JGRrbkiTlxqtqPG1obEsynMYDa5ShsZWTMjS2clJu/NyhV9V4YI17hsqWZDiNJWmUobGVkzI0tu92h2xJhmNJhmNJlP9VhsZWTsrQ2MpJGRr7kfwFsVRd5bs3+uoAAAAASUVORK5CYII="
+       id="imageebcaaed406"
+       transform="scale(1,-1)"
+       x="1920.24"
+       y="-759.60004"
+       width="10.8"
+       height="151.2" />
+    <path
+       d="m 1920.5906,760.47374 h 5.4 5.4 v -151.2 h -5.4 -5.4 z"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+       id="path1158" />
+    <path
+       d="m 1931.3906,760.47374 h 10.8 v -151.2 h -10.8 z"
+       style="fill:#ffffff"
+       id="path1162" />
+    <image
+       xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAA8AAADSCAYAAACVdpq7AAAArElEQVR4nO3YwQkAIQwFUXfZ/ivbNmzDWIJESeST8f4QdQ7Bx3r/2+b6mtmuBSvhMW7tfAu/27LVvDDRwg7fWfLMsvjgwm6+M5GAYzGRgJeYSMCxWLIwJv1czKSfubMoZtLP3FkUV4yEwsCxmEjASywZCZN+Lq446UteWMUzE4kQZtJ34oqRgJ2YSMBLLBkJf725WPLMRJKLmfSdmEhcS/adiQQci+tFwl+vc017LYcAGPg5MgAAAABJRU5ErkJggg=="
+       id="imagea363c0ba24"
+       transform="scale(1,-1)"
+       x="1931.04"
+       y="-759.60004"
+       width="10.8"
+       height="151.2" />
+    <g
+       id="ytick_16">
+      <g
+         id="line2d_1">
+        <defs
+           id="defs1168">
+          <path
+             id="m54ccd4a4b7"
+             d="M 0,0 H 3.5"
+             style="stroke:#000000;stroke-width:0.8" />
+        </defs>
+        <g
+           id="g1172">
+          <use
+             xlink:href="#m54ccd4a4b7"
+             x="1942.1907"
+             y="760.47375"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1170"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_1">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+           x="1949.1907"
+           y="764.27295"
+           id="text1175">25%</text>
+      </g>
+    </g>
+    <g
+       id="ytick_17">
+      <g
+         id="line2d_2">
+        <g
+           id="g1181">
+          <use
+             xlink:href="#m54ccd4a4b7"
+             x="1942.1907"
+             y="609.27374"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1179"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_2">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+           x="1949.1907"
+           y="613.07294"
+           id="text1184">100%</text>
+      </g>
+    </g>
+    <path
+       d="m 1931.3906,760.47374 h 5.4 5.4 v -151.2 h -5.4 -5.4 z"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+       id="path1190" />
+    <path
+       d="M 818.99063,287.97374 H 1898.9906 v -31.5 H 818.99063 Z"
+       style="fill:none"
+       id="path1194" />
+    <path
+       d="m 889.92699,264.34874 -16.2,7.875 v -3.9375 h -11.34 v -7.875 h 11.34 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1197" />
+    <path
+       d="m 897.9779,280.09874 12.96,-7.875 v 3.9375 0 7.875 0 3.9375 z"
+       style="fill:#ffa500"
+       id="path1200" />
+    <path
+       d="m 910.74153,280.09874 16.2,-7.875 v 3.9375 h 27.54 v 7.875 h -27.54 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1203" />
+    <path
+       d="m 980.79426,280.09874 14.43273,-7.875 v 3.9375 0 7.875 0 3.9375 z"
+       style="fill:#ffa500"
+       id="path1206" />
+    <path
+       d="m 994.83426,280.09874 16.20004,-7.875 v 3.9375 h 107.8036 v 7.875 h -107.8036 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1209" />
+    <path
+       d="m 1118.6415,280.09874 16.2,-7.875 v 3.9375 h 12.3709 v 7.875 h -12.3709 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1212" />
+    <path
+       d="m 1150.5506,280.09874 16.2,-7.875 v 3.9375 h 53.7546 v 7.875 h -53.7546 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1215" />
+    <path
+       d="m 1222.1252,280.09874 16.2,-7.875 v 3.9375 h 4.4182 v 7.875 h -4.4182 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1218" />
+    <path
+       d="m 1246.1306,280.09874 16.2,-7.875 v 3.9375 h 31.5164 v 7.875 h -31.5164 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1221" />
+    <path
+       d="m 1295.3688,280.09874 16.2,-7.875 v 3.9375 h 32.8418 v 7.875 h -32.8418 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1224" />
+    <path
+       d="m 1372.5397,264.34874 -14.8745,7.875 v -3.9375 0 -7.875 0 -3.9375 z"
+       style="fill:#ffa500"
+       id="path1227" />
+    <path
+       d="m 1390.7524,264.34874 -15.3163,7.875 v -3.9375 0 -7.875 0 -3.9375 z"
+       style="fill:#ffa500"
+       id="path1230" />
+    <path
+       d="m 1462.0815,264.34874 -16.2,7.875 v -3.9375 h -53.1654 v -7.875 h 53.1654 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1233" />
+    <path
+       d="m 1502.9743,264.34874 -16.2,7.875 v -3.9375 h -24.8891 v -7.875 h 24.8891 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1236" />
+    <path
+       d="m 1533.4106,264.34874 -16.2,7.875 v -3.9375 h -9.1309 v -7.875 h 9.1309 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1239" />
+    <path
+       d="m 1600.6652,264.34874 -16.2,7.875 v -3.9375 h -34.02 v -7.875 h 34.02 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1242" />
+    <path
+       d="m 1654.6652,264.34874 -16.2,7.875 v -3.9375 h -37.7018 v -7.875 h 37.7018 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1245" />
+    <path
+       d="m 1761.7815,264.34874 -16.2,7.875 v -3.9375 h -93.5181 v -7.875 h 93.5181 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1248" />
+    <path
+       d="m 1830.2143,264.34874 -16.2,7.875 v -3.9375 h -32.4 v -7.875 h 32.4 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1251" />
+    <path
+       d="m 1880.3852,264.34874 -16.2,7.875 v -3.9375 h -27.8346 v -7.875 h 27.8346 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1254" />
+    <path
+       d="M 818.99063,272.22374 H 1898.9906"
+       clip-path="url(#pcfc6b15e94)"
+       style="fill:none;stroke:#808080;stroke-linecap:square"
+       id="path1271" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85321"
+       y="874.6864"
+       transform="rotate(-90)"
+       id="text1277">DUF4913 domain-containing protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85316"
+       y="931.14099"
+       transform="rotate(-90)"
+       id="text1280">5'/3'-nucleotidase SurE</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.8532"
+       y="986.54004"
+       transform="rotate(-90)"
+       id="text1283">BMC domain-containing protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.8532"
+       y="1055.3655"
+       transform="rotate(-90)"
+       id="text1286">pyruvate, phosphate dikinase</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85313"
+       y="1230.9637"
+       transform="rotate(-90)"
+       id="text1289">PEP-utilizing enzyme</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.8532"
+       y="1268.5182"
+       transform="rotate(-90)"
+       id="text1292">HAD hydrolase-like protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85324"
+       y="1363.632"
+       transform="rotate(-90)"
+       id="text1295">EutN/CcmL family microcompartment protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85323"
+       y="1381.6237"
+       transform="rotate(-90)"
+       id="text1298">BMC domain-containing protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85316"
+       y="1425.9282"
+       transform="rotate(-90)"
+       id="text1301">aldehyde dehydrogenase family protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85327"
+       y="1480.9592"
+       transform="rotate(-90)"
+       id="text1304">ethanolamine utilization protein EutJ</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85318"
+       y="1574.0846"
+       transform="rotate(-90)"
+       id="text1307">malate dehydrogenase</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85323"
+       y="1626.2437"
+       transform="rotate(-90)"
+       id="text1310">alcohol dehydrogenase catalytic domain-containing protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85318"
+       y="1705.4519"
+       transform="rotate(-90)"
+       id="text1313">helix-turn-helix domain-containing protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85315"
+       y="1804.4437"
+       transform="rotate(-90)"
+       id="text1316">tyrosine-type recombinase/integrase</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+       x="-251.85313"
+       y="1856.8973"
+       transform="rotate(-90)"
+       id="text1319">N-acetyltransferase</text>
+    <path
+       d="M 818.99063,445.47374 H 1898.9906 v -31.5 H 818.99063 Z"
+       style="fill:none"
+       id="path1323" />
+    <path
+       d="m 849.77062,437.59874 14.72728,-7.875 v 3.9375 0 7.875 0 3.9375 z"
+       style="fill:#ffa500"
+       id="path1326" />
+    <path
+       d="m 896.40699,421.84874 -16.2,7.875 v -3.9375 h -20.96182 v -7.875 h 20.96182 v -3.9375 z"
+       style="fill:#d3d3d3"
+       id="path1329" />
+    <path
+       d="m 933.12699,437.59874 13.99091,-7.875 v 3.9375 0 7.875 0 3.9375 z"
+       style="fill:#ffa500"
+       id="path1332" />
+    <path
+       d="m 947.26517,437.59874 16.2,-7.875 v 3.9375 h 106.47823 v 7.875 H 963.46517 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1335" />
+    <path
+       d="m 1069.9434,437.59874 16.2,-7.875 v 3.9375 h 11.929 v 7.875 h -11.929 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1338" />
+    <path
+       d="m 1101.0179,437.59874 16.2,-7.875 v 3.9375 h 53.0182 v 7.875 h -53.0182 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1341" />
+    <path
+       d="m 1172.0034,437.59874 16.2,-7.875 v 3.9375 h 4.2709 v 7.875 h -4.2709 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1344" />
+    <path
+       d="m 1194.487,437.59874 16.2,-7.875 v 3.9375 h 29.7491 v 7.875 h -29.7491 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1347" />
+    <path
+       d="m 1240.2397,437.59874 16.2,-7.875 v 3.9375 h 39.1746 v 7.875 h -39.1746 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1350" />
+    <path
+       d="m 1315.447,421.84874 -14.7273,7.875 v -3.9375 0 -7.875 0 -3.9375 z"
+       style="fill:#ffa500"
+       id="path1353" />
+    <path
+       d="m 1332.8743,421.84874 -14.7273,7.875 v -3.9375 0 -7.875 0 -3.9375 z"
+       style="fill:#ffa500"
+       id="path1356" />
+    <path
+       d="m 1403.9088,421.84874 -16.2,7.875 v -3.9375 h -52.4291 v -7.875 h 52.4291 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1359" />
+    <path
+       d="m 1444.9488,421.84874 -16.2,7.875 v -3.9375 h -24.7418 v -7.875 h 24.7418 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1362" />
+    <path
+       d="m 1475.5815,421.84874 -16.2,7.875 v -3.9375 h -14.1381 v -7.875 h 14.1381 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1365" />
+    <path
+       d="m 1536.9452,421.84874 -16.2,7.875 v -3.9375 h -45.36 v -7.875 h 45.36 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1368" />
+    <path
+       d="m 1588.2452,421.84874 -16.2,7.875 v -3.9375 h -30.9273 v -7.875 h 30.9273 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1371" />
+    <path
+       d="m 1704.1488,421.84874 -16.2,7.875 v -3.9375 h -92.4873 v -7.875 h 92.4873 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1374" />
+    <path
+       d="m 1703.9524,437.59874 5.3019,-7.875 v 3.9375 0 7.875 0 3.9375 z"
+       style="fill:#d3d3d3"
+       id="path1377" />
+    <path
+       d="m 1730.9524,437.59874 16.2,-7.875 v 3.9375 h 97.6419 v 7.875 h -97.6419 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1380" />
+    <path
+       d="M 843.53608,429.72374 H 1874.4452"
+       clip-path="url(#p21f2fd726a)"
+       style="fill:none;stroke:#808080;stroke-linecap:square"
+       id="path1397" />
+    <path
+       d="M 818.99063,602.97374 H 1898.9906 v -31.5 H 818.99063 Z"
+       style="fill:none"
+       id="path1404" />
+    <path
+       d="m 894.93426,595.09874 16.2,-7.875 v 3.9375 h 92.92914 v 7.875 h -92.92914 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1407" />
+    <path
+       d="m 1045.447,595.09874 13.9909,-7.875 v 3.9375 0 7.875 0 3.9375 z"
+       style="fill:#ffa500"
+       id="path1410" />
+    <path
+       d="m 1059.5852,595.09874 16.2,-7.875 v 3.9375 h 105.5945 v 7.875 h -105.5945 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1413" />
+    <path
+       d="m 1181.527,595.09874 16.2,-7.875 v 3.9375 h 12.0764 v 7.875 h -12.0764 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1416" />
+    <path
+       d="m 1212.9452,595.09874 16.2,-7.875 v 3.9375 h 53.0182 v 7.875 h -53.0182 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1419" />
+    <path
+       d="m 1283.9797,595.09874 16.2,-7.875 v 3.9375 h 4.2709 v 7.875 h -4.2709 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1422" />
+    <path
+       d="m 1306.4143,595.09874 16.2,-7.875 v 3.9375 h 31.9581 v 7.875 h -31.9581 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1425" />
+    <path
+       d="m 1354.3761,595.09874 16.2,-7.875 v 3.9375 h 34.02 v 7.875 h -34.02 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1428" />
+    <path
+       d="m 1429.5343,579.34874 -14.7273,7.875 v -3.9375 0 -7.875 0 -3.9375 z"
+       style="fill:#ffa500"
+       id="path1431" />
+    <path
+       d="m 1446.9615,579.34874 -14.7272,7.875 v -3.9375 0 -7.875 0 -3.9375 z"
+       style="fill:#ffa500"
+       id="path1434" />
+    <path
+       d="m 1517.947,579.34874 -16.2,7.875 v -3.9375 h -53.0182 v -7.875 h 53.0182 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1437" />
+    <path
+       d="m 1558.6924,579.34874 -16.2,7.875 v -3.9375 h -24.4472 v -7.875 h 24.4472 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1440" />
+    <path
+       d="m 1589.3743,579.34874 -16.2,7.875 v -3.9375 h -14.2855 v -7.875 h 14.2855 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1443" />
+    <path
+       d="m 1650.7379,579.34874 -16.2,7.875 v -3.9375 h -45.36 v -7.875 h 45.36 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1446" />
+    <path
+       d="m 1702.0379,579.34874 -16.2,7.875 v -3.9375 h -35.0509 v -7.875 h 35.0509 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1449" />
+    <path
+       d="m 1817.6961,579.34874 -16.2,7.875 v -3.9375 h -92.34 v -7.875 h 92.34 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1452" />
+    <path
+       d="M 885.36153,587.22374 H 1832.6197"
+       clip-path="url(#pbf3f7fc4d8)"
+       style="fill:none;stroke:#808080;stroke-linecap:square"
+       id="path1469" />
+    <path
+       d="M 818.99063,760.47374 H 1898.9906 v -31.5 H 818.99063 Z"
+       style="fill:none"
+       id="path1476" />
+    <path
+       d="m 848.8379,752.59874 16.2,-7.875 v 3.9375 h 16.05273 v 7.875 H 865.0379 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1479" />
+    <path
+       d="m 900.53062,736.84874 -11.19272,7.875 v -3.9375 0 -7.875 0 -3.9375 z"
+       style="fill:#ffa500"
+       id="path1482" />
+    <path
+       d="m 937.29972,736.84874 -16.2,7.875 v -3.9375 h -20.76546 v -7.875 h 20.76546 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1485" />
+    <path
+       d="m 973.33244,736.84874 -16.2,7.875 v -3.9375 h -2.60182 v -7.875 h 2.60182 v -3.9375 z"
+       style="fill:#d3d3d3"
+       id="path1488" />
+    <path
+       d="m 974.80517,752.59874 13.99091,-7.875 v 3.9375 0 7.875 0 3.9375 z"
+       style="fill:#ffa500"
+       id="path1491" />
+    <path
+       d="m 988.94335,752.59874 16.20005,-7.875 v 3.9375 h 105.3 v 7.875 h -105.3 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1494" />
+    <path
+       d="m 1110.6397,752.59874 16.2,-7.875 v 3.9375 h 11.9291 v 7.875 h -11.9291 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1497" />
+    <path
+       d="m 1141.9597,752.59874 16.2,-7.875 v 3.9375 h 53.0182 v 7.875 h -53.0182 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1500" />
+    <path
+       d="m 1212.9452,752.59874 16.2,-7.875 v 3.9375 h 4.2709 v 7.875 h -4.2709 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1503" />
+    <path
+       d="m 1235.3797,752.59874 16.2,-7.875 v 3.9375 h 31.9582 v 7.875 h -31.9582 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1506" />
+    <path
+       d="m 1283.3415,752.59874 16.2,-7.875 v 3.9375 h 34.02 v 7.875 h -34.02 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1509" />
+    <path
+       d="m 1358.4506,736.84874 -14.7272,7.875 v -3.9375 0 -7.875 0 -3.9375 z"
+       style="fill:#ffa500"
+       id="path1512" />
+    <path
+       d="m 1375.8779,736.84874 -14.7273,7.875 v -3.9375 0 -7.875 0 -3.9375 z"
+       style="fill:#ffa500"
+       id="path1515" />
+    <path
+       d="m 1446.8634,736.84874 -16.2,7.875 v -3.9375 h -53.0182 v -7.875 h 53.0182 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1518" />
+    <path
+       d="m 1487.6088,736.84874 -16.2,7.875 v -3.9375 h -24.4473 v -7.875 h 24.4473 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1521" />
+    <path
+       d="m 1518.2415,736.84874 -16.2,7.875 v -3.9375 h -14.2854 v -7.875 h 14.2854 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1524" />
+    <path
+       d="m 1579.4579,736.84874 -16.2,7.875 v -3.9375 h -45.2127 v -7.875 h 45.2127 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1527" />
+    <path
+       d="m 1630.7579,736.84874 -16.2,7.875 v -3.9375 h -35.0509 v -7.875 h 35.0509 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1530" />
+    <path
+       d="m 1746.5143,736.84874 -16.2,7.875 v -3.9375 h -98.2309 v -7.875 h 98.2309 v -3.9375 z"
+       style="fill:#ffa500"
+       id="path1533" />
+    <path
+       d="m 1777.2452,752.59874 16.2,-7.875 v 3.9375 h 27.2454 v 7.875 h -27.2454 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1536" />
+    <path
+       d="m 1820.8379,752.59874 16.2,-7.875 v 3.9375 h 54.6382 v 7.875 h -54.6382 v 3.9375 z"
+       style="fill:#ffa500"
+       id="path1539" />
+    <path
+       d="M 818.99063,744.72374 H 1898.9906"
+       clip-path="url(#p86fe23f76b)"
+       style="fill:none;stroke:#808080;stroke-linecap:square"
+       id="path1547" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:end"
+       x="808.19061"
+       y="752.3222"
+       id="text1550">Bradyrhizobium_macuxiense BR10303 WGS</text>
+    <g
+       id="xtick_55">
+      <g
+         id="line2d_7">
+        <defs
+           id="defs1555">
+          <path
+             id="m93b836eb34"
+             d="M 0,0 V 3.5"
+             style="stroke:#000000;stroke-width:0.8" />
+        </defs>
+        <g
+           id="g1559">
+          <use
+             xlink:href="#m93b836eb34"
+             x="818.9906"
+             y="791.97375"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1557"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_22">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
+           x="818.9906"
+           y="810.3714"
+           id="text1562">0 Kb</text>
+      </g>
+    </g>
+    <g
+       id="xtick_56">
+      <g
+         id="line2d_8">
+        <g
+           id="g1568">
+          <use
+             xlink:href="#m93b836eb34"
+             x="941.7179"
+             y="791.97375"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1566"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_23">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
+           x="941.7179"
+           y="810.3714"
+           id="text1571">2.5 Kb</text>
+      </g>
+    </g>
+    <g
+       id="xtick_57">
+      <g
+         id="line2d_9">
+        <g
+           id="g1577">
+          <use
+             xlink:href="#m93b836eb34"
+             x="1064.4452"
+             y="791.97375"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1575"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_24">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
+           x="1064.4452"
+           y="810.3714"
+           id="text1580">5.0 Kb</text>
+      </g>
+    </g>
+    <g
+       id="xtick_58">
+      <g
+         id="line2d_10">
+        <g
+           id="g1586">
+          <use
+             xlink:href="#m93b836eb34"
+             x="1187.1725"
+             y="791.97375"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1584"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_25">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
+           x="1187.1725"
+           y="810.3714"
+           id="text1589">7.5 Kb</text>
+      </g>
+    </g>
+    <g
+       id="xtick_59">
+      <g
+         id="line2d_11">
+        <g
+           id="g1595">
+          <use
+             xlink:href="#m93b836eb34"
+             x="1309.8997"
+             y="791.97375"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1593"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_26">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
+           x="1309.8997"
+           y="810.3714"
+           id="text1598">10 Kb</text>
+      </g>
+    </g>
+    <g
+       id="xtick_60">
+      <g
+         id="line2d_12">
+        <g
+           id="g1604">
+          <use
+             xlink:href="#m93b836eb34"
+             x="1432.627"
+             y="791.97375"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1602"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_27">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
+           x="1432.627"
+           y="810.3714"
+           id="text1607">12 Kb</text>
+      </g>
+    </g>
+    <g
+       id="xtick_61">
+      <g
+         id="line2d_13">
+        <g
+           id="g1613">
+          <use
+             xlink:href="#m93b836eb34"
+             x="1555.3542"
+             y="791.97375"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1611"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_28">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
+           x="1555.3542"
+           y="810.3714"
+           id="text1616">15 Kb</text>
+      </g>
+    </g>
+    <g
+       id="xtick_62">
+      <g
+         id="line2d_14">
+        <g
+           id="g1622">
+          <use
+             xlink:href="#m93b836eb34"
+             x="1678.0815"
+             y="791.97375"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1620"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_29">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
+           x="1678.0815"
+           y="810.3714"
+           id="text1625">18 Kb</text>
+      </g>
+    </g>
+    <g
+       id="xtick_63">
+      <g
+         id="line2d_15">
+        <g
+           id="g1631">
+          <use
+             xlink:href="#m93b836eb34"
+             x="1800.8088"
+             y="791.97375"
+             style="stroke:#000000;stroke-width:0.8"
+             id="use1629"
+             width="100%"
+             height="100%" />
+        </g>
+      </g>
+      <g
+         id="text_30">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
+           x="1800.8088"
+           y="810.3714"
+           id="text1634">20 Kb</text>
+      </g>
+    </g>
+    <path
+       d="M 818.99063,791.97374 H 1898.9906"
+       style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+       id="path1639" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;opacity:0.98;stroke-linecap:butt;stroke-linejoin:round"
+       x="-250.20909"
+       y="1133.7754"
+       transform="rotate(-90)"
+       id="text325-3">hypothetical protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;opacity:0.98;stroke-linecap:butt;stroke-linejoin:round"
+       x="-250.87976"
+       y="1186.772"
+       transform="rotate(-90)"
+       id="text325-3-6">hypotheticalprotein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;opacity:0.98;stroke-linecap:butt;stroke-linejoin:round"
+       x="-250.56067"
+       y="1324.9631"
+       transform="rotate(-90)"
+       id="text325-3-6-7">hypothetical protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;opacity:0.98;stroke-linecap:butt;stroke-linejoin:round"
+       x="-250.56067"
+       y="1519.9631"
+       transform="rotate(-90)"
+       id="text325-3-6-7-5">hypotheticalprotein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;opacity:0.98;stroke-linecap:butt;stroke-linejoin:round"
+       x="-252.06067"
+       y="910.96307"
+       transform="rotate(-90)"
+       id="text325-3-6-7-3">hypothetical protein</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"
+       x="809.245"
+       y="438.50235"
+       id="text122048">Bradyrhizobium iriomotense NBRC102520 WGS</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"
+       x="809.245"
+       y="602.13867"
+       id="text122111">Bradyrhizobium jicamae SZCCT0434 WGS</text>
+    <g
+       id="line2d_6"
+       transform="translate(54.59501,-5.6926355)"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <defs
+         id="defs122116">
+        <path
+           id="path7865"
+           d="M 0,0 V 3.5"
+           style="stroke:#000000;stroke-width:0.8" />
+      </defs>
+      <g
+         id="g122120">
+        <use
+           xlink:href="#m011d89029c"
+           x="765.45001"
+           y="649.32373"
+           style="stroke:#000000;stroke-width:0.8"
+           id="use122118"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:end;stroke-linecap:butt;stroke-linejoin:round"
+       x="805.59705"
+       y="274.36572"
+       id="text313">StC genome</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff00ff;stroke-linecap:butt;stroke-linejoin:round"
+       x="655.62878"
+       y="293.60815"
+       id="text23273">(90,000 - 112,000 bp)</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
+       x="498.63388"
+       y="456.00735"
+       id="text23273-9">(NZ_BSOW01000053 45,000 - 24,000 bp)</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
+       x="538.82947"
+       y="622.94824"
+       id="text23273-1"
+       inkscape:export-filename="/media/fmota1/200GbExt4/dados/nitrogenase/phylogeny11kPF03319/MAGs/pyGenomeViz_WGSsxExclusiveBMCstc.paper.400dpi.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">(NZ_JAFCJH010000089 19296- 1 bp)</text>
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#000000;stroke-linecap:butt;stroke-linejoin:round"
+       x="499.17346"
+       y="772.25354"
+       id="text23273-1-3"
+       inkscape:export-filename="/media/fmota1/200GbExt4/dados/nitrogenase/phylogeny11kPF03319/MAGs/pyGenomeViz_WGSsxExclusiveBMCstc.paper.400dpi.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">(NZ_LNCU01000107 167000- 145000 bp)</text>
+    <path
+       style="fill:#ff00ff;fill-rule:evenodd;stroke:#ff00ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 822.99842,310.06099 -169.7704,-0.3964"
+       id="path245030-8" />
+  </g>
+</svg>
