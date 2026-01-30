@@ -1,0 +1,2510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1835pt"
+   height="1160pt"
+   viewBox="0 0 1835 1160"
+   version="1.1"
+   id="svg42325"
+   sodipodi:docname="readableFontFigure3.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="UBT1vsSTCvsH1overviewANDzoomTrapezoidPositions.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview42327"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="0.39179138"
+     inkscape:cx="271.82834"
+     inkscape:cy="573.00903"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="figure_1"
+     inkscape:lockguides="false"
+     height="1200pt"
+     width="1835pt" />
+  <metadata
+     id="metadata2">
+    <rdf:rdf>
+      <cc:work>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>2024-03-24T00:39:32.829420</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:agent>
+            <dc:title>Matplotlib v3.8.0, https://matplotlib.org/</dc:title>
+          </cc:agent>
+        </dc:creator>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs
+     id="defs6">
+    <style
+       type="text/css"
+       id="style4">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <clipPath
+       id="p0a8457a522">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect3480" />
+    </clipPath>
+    <clipPath
+       id="clipPath60848">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60846" />
+    </clipPath>
+    <clipPath
+       id="clipPath60852">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60850" />
+    </clipPath>
+    <clipPath
+       id="clipPath60856">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60854" />
+    </clipPath>
+    <clipPath
+       id="clipPath60860">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60858" />
+    </clipPath>
+    <clipPath
+       id="clipPath60864">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60862" />
+    </clipPath>
+    <clipPath
+       id="clipPath60868">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60866" />
+    </clipPath>
+    <clipPath
+       id="clipPath60872">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60870" />
+    </clipPath>
+    <clipPath
+       id="clipPath60876">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60874" />
+    </clipPath>
+    <clipPath
+       id="clipPath60880">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60878" />
+    </clipPath>
+    <clipPath
+       id="clipPath60884">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60882" />
+    </clipPath>
+    <clipPath
+       id="clipPath60888">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60886" />
+    </clipPath>
+    <clipPath
+       id="clipPath60892">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60890" />
+    </clipPath>
+    <clipPath
+       id="clipPath60896">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60894" />
+    </clipPath>
+    <clipPath
+       id="clipPath60900">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60898" />
+    </clipPath>
+    <clipPath
+       id="clipPath60904">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60902" />
+    </clipPath>
+    <clipPath
+       id="clipPath60908">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60906" />
+    </clipPath>
+    <clipPath
+       id="clipPath60912">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60910" />
+    </clipPath>
+    <clipPath
+       id="clipPath60916">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60914" />
+    </clipPath>
+    <clipPath
+       id="clipPath60920">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60918" />
+    </clipPath>
+    <clipPath
+       id="clipPath60924">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60922" />
+    </clipPath>
+    <clipPath
+       id="clipPath60928">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60926" />
+    </clipPath>
+    <clipPath
+       id="clipPath60932">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60930" />
+    </clipPath>
+    <clipPath
+       id="clipPath60936">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60934" />
+    </clipPath>
+    <clipPath
+       id="clipPath60940">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60938" />
+    </clipPath>
+    <clipPath
+       id="clipPath60944">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60942" />
+    </clipPath>
+    <clipPath
+       id="clipPath60948">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60946" />
+    </clipPath>
+    <clipPath
+       id="clipPath60952">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60950" />
+    </clipPath>
+    <clipPath
+       id="clipPath60956">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60954" />
+    </clipPath>
+    <clipPath
+       id="clipPath60960">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60958" />
+    </clipPath>
+    <clipPath
+       id="clipPath60964">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60962" />
+    </clipPath>
+    <clipPath
+       id="clipPath60968">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60966" />
+    </clipPath>
+    <clipPath
+       id="clipPath60972">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60970" />
+    </clipPath>
+    <clipPath
+       id="clipPath60976">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60974" />
+    </clipPath>
+    <clipPath
+       id="clipPath60980">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60978" />
+    </clipPath>
+    <clipPath
+       id="clipPath60984">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60982" />
+    </clipPath>
+    <clipPath
+       id="clipPath60988">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60986" />
+    </clipPath>
+    <clipPath
+       id="clipPath60992">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60990" />
+    </clipPath>
+    <clipPath
+       id="clipPath60996">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60994" />
+    </clipPath>
+    <clipPath
+       id="clipPath61000">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect60998" />
+    </clipPath>
+    <clipPath
+       id="clipPath61004">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61002" />
+    </clipPath>
+    <clipPath
+       id="clipPath61008">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61006" />
+    </clipPath>
+    <clipPath
+       id="clipPath61012">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61010" />
+    </clipPath>
+    <clipPath
+       id="clipPath61016">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61014" />
+    </clipPath>
+    <clipPath
+       id="clipPath61020">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61018" />
+    </clipPath>
+    <clipPath
+       id="pc8699d246c">
+      <rect
+         x="176.20625"
+         y="342.8942"
+         width="1080"
+         height="41.142857"
+         id="rect3483" />
+    </clipPath>
+    <clipPath
+       id="clipPath61026">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61024" />
+    </clipPath>
+    <clipPath
+       id="clipPath61030">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61028" />
+    </clipPath>
+    <clipPath
+       id="clipPath61034">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61032" />
+    </clipPath>
+    <clipPath
+       id="clipPath61038">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61036" />
+    </clipPath>
+    <clipPath
+       id="clipPath61042">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61040" />
+    </clipPath>
+    <clipPath
+       id="clipPath61046">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61044" />
+    </clipPath>
+    <clipPath
+       id="clipPath61050">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61048" />
+    </clipPath>
+    <clipPath
+       id="clipPath61054">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61052" />
+    </clipPath>
+    <clipPath
+       id="clipPath61058">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61056" />
+    </clipPath>
+    <clipPath
+       id="clipPath61062">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61060" />
+    </clipPath>
+    <clipPath
+       id="clipPath61066">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61064" />
+    </clipPath>
+    <clipPath
+       id="clipPath61070">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61068" />
+    </clipPath>
+    <clipPath
+       id="clipPath61074">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61072" />
+    </clipPath>
+    <clipPath
+       id="clipPath61078">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61076" />
+    </clipPath>
+    <clipPath
+       id="clipPath61082">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61080" />
+    </clipPath>
+    <clipPath
+       id="p4044a76f59">
+      <rect
+         x="176.20625"
+         y="521.17993"
+         width="1080"
+         height="41.142857"
+         id="rect3486" />
+    </clipPath>
+    <clipPath
+       id="clipPath61088">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61086" />
+    </clipPath>
+    <clipPath
+       id="clipPath61092">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61090" />
+    </clipPath>
+    <clipPath
+       id="clipPath61096">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61094" />
+    </clipPath>
+    <clipPath
+       id="clipPath61100">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61098" />
+    </clipPath>
+    <clipPath
+       id="clipPath61104">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61102" />
+    </clipPath>
+    <clipPath
+       id="clipPath61108">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61106" />
+    </clipPath>
+    <clipPath
+       id="clipPath61112">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61110" />
+    </clipPath>
+    <clipPath
+       id="clipPath61116">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61114" />
+    </clipPath>
+    <clipPath
+       id="clipPath61120">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61118" />
+    </clipPath>
+    <clipPath
+       id="clipPath61124">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61122" />
+    </clipPath>
+    <clipPath
+       id="clipPath61128">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61126" />
+    </clipPath>
+    <clipPath
+       id="clipPath61132">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61130" />
+    </clipPath>
+    <clipPath
+       id="clipPath61136">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61134" />
+    </clipPath>
+    <clipPath
+       id="clipPath61140">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61138" />
+    </clipPath>
+    <clipPath
+       id="clipPath61144">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect61142" />
+    </clipPath>
+    <path
+       id="m8e71735acc"
+       d="M 0,0 H 3.5"
+       style="stroke:#000000;stroke-width:0.8" />
+    <clipPath
+       id="p0130b721e5">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect5153" />
+    </clipPath>
+    <clipPath
+       id="clipPath11221">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11219" />
+    </clipPath>
+    <clipPath
+       id="clipPath11225">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11223" />
+    </clipPath>
+    <clipPath
+       id="clipPath11229">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11227" />
+    </clipPath>
+    <clipPath
+       id="clipPath11233">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11231" />
+    </clipPath>
+    <clipPath
+       id="clipPath11237">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11235" />
+    </clipPath>
+    <clipPath
+       id="clipPath11241">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11239" />
+    </clipPath>
+    <clipPath
+       id="clipPath11245">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11243" />
+    </clipPath>
+    <clipPath
+       id="clipPath11249">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11247" />
+    </clipPath>
+    <clipPath
+       id="clipPath11253">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11251" />
+    </clipPath>
+    <clipPath
+       id="clipPath11257">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11255" />
+    </clipPath>
+    <clipPath
+       id="clipPath11261">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11259" />
+    </clipPath>
+    <clipPath
+       id="clipPath11265">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11263" />
+    </clipPath>
+    <clipPath
+       id="clipPath11269">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11267" />
+    </clipPath>
+    <clipPath
+       id="clipPath11273">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11271" />
+    </clipPath>
+    <clipPath
+       id="clipPath11277">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11275" />
+    </clipPath>
+    <clipPath
+       id="clipPath11281">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11279" />
+    </clipPath>
+    <clipPath
+       id="clipPath11285">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11283" />
+    </clipPath>
+    <clipPath
+       id="clipPath11289">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11287" />
+    </clipPath>
+    <clipPath
+       id="clipPath11293">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11291" />
+    </clipPath>
+    <clipPath
+       id="clipPath11297">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11295" />
+    </clipPath>
+    <clipPath
+       id="clipPath11301">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11299" />
+    </clipPath>
+    <clipPath
+       id="clipPath11305">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11303" />
+    </clipPath>
+    <clipPath
+       id="clipPath11309">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11307" />
+    </clipPath>
+    <clipPath
+       id="clipPath11313">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11311" />
+    </clipPath>
+    <clipPath
+       id="clipPath11317">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11315" />
+    </clipPath>
+    <clipPath
+       id="clipPath11321">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11319" />
+    </clipPath>
+    <clipPath
+       id="clipPath11325">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11323" />
+    </clipPath>
+    <clipPath
+       id="clipPath11329">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11327" />
+    </clipPath>
+    <clipPath
+       id="clipPath11333">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11331" />
+    </clipPath>
+    <clipPath
+       id="clipPath11337">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11335" />
+    </clipPath>
+    <clipPath
+       id="clipPath11341">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11339" />
+    </clipPath>
+    <clipPath
+       id="clipPath11345">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11343" />
+    </clipPath>
+    <clipPath
+       id="clipPath11349">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11347" />
+    </clipPath>
+    <clipPath
+       id="clipPath11353">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11351" />
+    </clipPath>
+    <clipPath
+       id="clipPath11357">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11355" />
+    </clipPath>
+    <clipPath
+       id="clipPath11361">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11359" />
+    </clipPath>
+    <clipPath
+       id="clipPath11365">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11363" />
+    </clipPath>
+    <clipPath
+       id="clipPath11369">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11367" />
+    </clipPath>
+    <clipPath
+       id="clipPath11373">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11371" />
+    </clipPath>
+    <clipPath
+       id="clipPath11377">
+      <rect
+         x="176.20625"
+         y="384.03705"
+         width="1080"
+         height="137.14285"
+         id="rect11375" />
+    </clipPath>
+    <clipPath
+       id="pe4c21f5fef">
+      <rect
+         x="176.20625"
+         y="342.8942"
+         width="1080"
+         height="41.142857"
+         id="rect5156" />
+    </clipPath>
+    <clipPath
+       id="pa9d33face7">
+      <rect
+         x="176.20625"
+         y="521.17993"
+         width="1080"
+         height="41.142857"
+         id="rect5159" />
+    </clipPath>
+    <path
+       id="m603af996ea"
+       d="M 0,0 H 3.5"
+       style="stroke:#000000;stroke-width:0.8" />
+    <clipPath
+       id="pbca83af096">
+      <rect
+         x="233.97501"
+         y="513.84747"
+         width="1080"
+         height="137.14285"
+         id="rect23424" />
+    </clipPath>
+    <clipPath
+       id="clipPath212520">
+      <rect
+         x="233.97501"
+         y="513.84747"
+         width="1080"
+         height="137.14285"
+         id="rect212518" />
+    </clipPath>
+    <clipPath
+       id="clipPath212524">
+      <rect
+         x="233.97501"
+         y="513.84747"
+         width="1080"
+         height="137.14285"
+         id="rect212522" />
+    </clipPath>
+    <clipPath
+       id="p68889c227d">
+      <rect
+         x="233.97501"
+         y="472.70462"
+         width="1080"
+         height="41.142857"
+         id="rect23427" />
+    </clipPath>
+    <clipPath
+       id="p9881ab448c">
+      <rect
+         x="233.97501"
+         y="650.99036"
+         width="1080"
+         height="41.142857"
+         id="rect23430" />
+    </clipPath>
+    <path
+       id="mbbd4203378"
+       d="M 0,0 H 3.5"
+       style="stroke:#000000;stroke-width:0.8" />
+    <clipPath
+       id="pbca83af096-6">
+      <rect
+         x="233.97501"
+         y="513.84747"
+         width="1080"
+         height="137.14285"
+         id="rect23424-2" />
+    </clipPath>
+    <clipPath
+       id="clipPath189570">
+      <rect
+         x="233.97501"
+         y="513.84747"
+         width="1080"
+         height="137.14285"
+         id="rect189568" />
+    </clipPath>
+    <clipPath
+       id="clipPath189574">
+      <rect
+         x="233.97501"
+         y="513.84747"
+         width="1080"
+         height="137.14285"
+         id="rect189572" />
+    </clipPath>
+    <clipPath
+       id="p68889c227d-9">
+      <rect
+         x="233.97501"
+         y="472.70462"
+         width="1080"
+         height="41.142857"
+         id="rect23427-1" />
+    </clipPath>
+    <clipPath
+       id="p9881ab448c-2">
+      <rect
+         x="233.97501"
+         y="650.99036"
+         width="1080"
+         height="41.142857"
+         id="rect23430-7" />
+    </clipPath>
+    <path
+       id="path213305"
+       d="M 0,0 H 3.5"
+       style="stroke:#000000;stroke-width:0.8" />
+  </defs>
+  <g
+     id="figure_1">
+    <g
+       id="g18579"
+       transform="translate(107.91725,20.339859)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect384529"
+         width="1757.3752"
+         height="1158.6396"
+         x="-30.297424"
+         y="-19.339859" />
+      <g
+         id="g189558"
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         transform="translate(19.458364,-772.20719)">
+        <g
+           id="TickTrack03-8"
+           transform="translate(-360.35061,462.6775)">
+          <g
+             id="patch_3-12">
+            <path
+               d="m 233.975,760.70463 h 1080 V 692.1332 h -1080 z"
+               style="fill:none"
+               id="path23136" />
+          </g>
+          <g
+             id="matplotlib.axis_3-9">
+            <g
+               id="xtick_9-3" />
+            <g
+               id="xtick_10-9" />
+            <g
+               id="xtick_11-0" />
+            <g
+               id="xtick_12-8" />
+            <g
+               id="xtick_13-8" />
+            <g
+               id="xtick_14-5" />
+            <g
+               id="xtick_15-0" />
+            <g
+               id="xtick_16-9" />
+          </g>
+          <g
+             id="matplotlib.axis_4-6">
+            <g
+               id="ytick_6-3" />
+            <g
+               id="ytick_7-8" />
+            <g
+               id="ytick_8-5" />
+          </g>
+          <g
+             id="LineCollection_1-6">
+            <path
+               d="M 1199.6832,760.70463 H 1313.975"
+               style="fill:none;stroke:#000000"
+               id="path23152-1" />
+          </g>
+          <g
+             id="LineCollection_2-1">
+            <path
+               d="m 1199.6832,764.30463 v -7.2"
+               style="fill:none;stroke:#000000"
+               id="path23155-5" />
+          </g>
+          <g
+             id="LineCollection_3-9">
+            <path
+               d="m 1313.975,764.30463 v -7.2"
+               style="fill:none;stroke:#000000"
+               id="path23158-8" />
+          </g>
+          <g
+             id="text_1-48">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:middle"
+               x="1256.8291"
+               y="775.70227"
+               id="text23161">2 Kb</text>
+          </g>
+        </g>
+        <g
+           id="g188717">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:56px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="50.678982"
+             y="1108.8839"
+             id="text35966-2"><tspan
+               sodipodi:role="line"
+               id="tspan35964-2"
+               style="font-size:56px;stroke-width:0.75px"
+               x="50.678982"
+               y="1108.8839">A</tspan></text>
+          <g
+             id="LinkTrack01-1"
+             transform="translate(-78.350608,678.6775)">
+            <g
+               id="patch_2-7">
+              <path
+                 d="m 233.975,650.99035 h 1080 V 513.84749 h -1080 z"
+                 style="fill:none"
+                 id="path23108" />
+            </g>
+            <g
+               id="Link-02dd638b-a394-473e-8f91-8395a0db3976">
+              <path
+                 d="m 789.83298,650.99035 h 16.11514 L 741.7733,513.84749 h -17.82952 l 65.8892,137.14286"
+                 clip-path="url(#pbca83af096-6)"
+                 style="fill:#bfbfbf;fill-opacity:0.8"
+                 title=""
+                 id="path23111" />
+            </g>
+            <g
+               id="Link-b514f274-0e70-4b63-ad59-3a3215d34b0a">
+              <path
+                 d="m 625.65287,650.99035 h 88.29038 L 824.80626,513.84749 H 744.05913 L 625.65287,650.99035"
+                 clip-path="url(#pbca83af096-6)"
+                 style="fill:#f3f3f3;fill-opacity:0.8"
+                 title=""
+                 id="path23114" />
+            </g>
+            <g
+               id="Link-5887f8b5-06c2-4fa7-b7f6-18f5d3728f4f">
+              <path
+                 d="m 714.68615,650.99035 h 34.6304 L 907.83923,513.84749 h -29.48728 l -163.6658,137.14286"
+                 clip-path="url(#pbca83af096-6)"
+                 style="fill:#dbdbdb;fill-opacity:0.8"
+                 title=""
+                 id="path23117" />
+            </g>
+            <g
+               id="matplotlib.axis_1-7">
+              <g
+                 id="xtick_1-1" />
+              <g
+                 id="xtick_2-1" />
+              <g
+                 id="xtick_3-5" />
+              <g
+                 id="xtick_4-9" />
+              <g
+                 id="xtick_5-7" />
+              <g
+                 id="xtick_6-7" />
+              <g
+                 id="xtick_7-67" />
+              <g
+                 id="xtick_8-3" />
+            </g>
+            <g
+               id="matplotlib.axis_2-6">
+              <g
+                 id="ytick_1-5" />
+              <g
+                 id="ytick_2-6" />
+              <g
+                 id="ytick_3-3" />
+              <g
+                 id="ytick_4-9" />
+              <g
+                 id="ytick_5-4" />
+            </g>
+          </g>
+          <g
+             id="axes_1-1"
+             transform="translate(-370.85061,549.6775)">
+            <g
+               id="patch_4-0">
+              <path
+                 d="m 1335.575,760.70463 h 10.8 v -86.4 h -10.8 z"
+                 style="fill:#ffffff"
+                 id="path23165" />
+            </g>
+            <image
+               xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAA8AAAB4CAYAAAAt8agzAAAAZklEQVR4nO3YsQ0AIAhEUTTuP5nb0IMLWEFhznz6FwMmZ2S4+7ZircysWjAYfKtZlt2Tezgiyli1ZzAYDDbrZlgnPVV71rxnMBgMVsaquf3slVQdGBgM/gY/jCE+KDKYTRwYDBbGB2rDTidH8c6mAAAAAElFTkSuQmCC"
+               id="imageddae219897"
+               transform="matrix(1,0,0,-1,0,86.4)"
+               x="1335.6"
+               y="-673.91998"
+               width="10.8"
+               height="86.400002" />
+            <g
+               id="matplotlib.axis_5-3" />
+            <g
+               id="matplotlib.axis_6-0">
+              <g
+                 id="ytick_9-44">
+                <g
+                   id="line2d_1-4">
+                  <defs
+                     id="defs23171">
+                    <path
+                       id="path378889"
+                       d="M 0,0 H 3.5"
+                       style="stroke:#000000;stroke-width:0.8" />
+                  </defs>
+                  <g
+                     id="g23175">
+                    <use
+                       xlink:href="#mbbd4203378"
+                       x="1346.375"
+                       y="760.70465"
+                       style="stroke:#000000;stroke-width:0.8"
+                       id="use23173"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                </g>
+                <g
+                   id="text_2-4">
+                  <text
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+                     x="1353.375"
+                     y="766.40344"
+                     id="text23178">36%</text>
+                </g>
+              </g>
+              <g
+                 id="ytick_10-7">
+                <g
+                   id="line2d_2-63">
+                  <g
+                     id="g23184">
+                    <use
+                       xlink:href="#mbbd4203378"
+                       x="1346.375"
+                       y="674.30463"
+                       style="stroke:#000000;stroke-width:0.8"
+                       id="use23182"
+                       width="100%"
+                       height="100%" />
+                  </g>
+                </g>
+                <g
+                   id="text_3-1">
+                  <text
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+                     x="1353.375"
+                     y="680.00348"
+                     id="text23187">100%</text>
+                </g>
+              </g>
+            </g>
+            <g
+               id="LineCollection_4-7" />
+            <g
+               id="patch_5-5">
+              <path
+                 d="m 1335.575,760.70463 h 5.4 5.4 v -86.4 h -5.4 -5.4 z"
+                 style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter"
+                 id="path23193" />
+            </g>
+          </g>
+          <g
+             id="patch_6-9"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 233.975,513.84749 h 1080 v -41.14286 h -1080 z"
+               style="fill:none"
+               id="path23197-6" />
+          </g>
+          <g
+             id="LineCollection_5-2"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 233.975,493.27606 h 1080"
+               clip-path="url(#p68889c227d-9)"
+               style="fill:none;stroke:#808080"
+               id="path23213" />
+          </g>
+          <g
+             id="TrackLabel_STC_genome-1"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:end"
+               x="223.175"
+               y="498.34012"
+               id="text23216">StC genome</text>
+          </g>
+          <g
+             id="Feature-727e2bfe-7e3f-4882-b456-e813c88c4f5f"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 264.54805,493.27606 16.2,-20.57143 v 10.28572 h 0.60088 v 20.57143 h -0.60088 v 10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23219" />
+          </g>
+          <g
+             id="Feature-eaaaf32f-d3e1-4c7d-94c1-3f4eb0d3a3fc"
+             style="fill:#ff6600;fill-opacity:1"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 280.89177,493.27606 16.2,-20.57143 v 10.28572 h 128.15049 v 20.57143 H 297.09177 v 10.28571 z"
+               style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23222" />
+          </g>
+          <g
+             id="Feature-d59d0132-555c-4701-94ee-0de51b6075ff"
+             style="fill:#00ff00"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 425.01368,493.27606 16.2,-20.57143 v 10.28572 h 17.0589 v 20.57143 h -17.0589 v 10.28571 z"
+               style="fill:#00ff00;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23225" />
+          </g>
+          <g
+             id="Feature-117b8e6f-4893-44a3-b0ad-398c73f3443e"
+             style="fill:#00ff00"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 462.1585,493.27606 16.2,-20.57143 v 10.28572 h 65.23288 v 20.57143 H 478.3585 v 10.28571 z"
+               style="fill:#00ff00;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23228" />
+          </g>
+          <g
+             id="Feature-19c1ca6f-2c47-4088-803e-0e012ae72a31"
+             style="fill:#00ff00;fill-opacity:1"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 545.4772,493.27606 16.2,-20.57143 v 10.28572 h 7.80127 v 20.57143 h -7.80127 v 10.28571 z"
+               style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23231" />
+          </g>
+          <g
+             id="Feature-cabedb99-e4c1-4d91-98b9-f2cd9127d25f"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 573.42153,493.27606 16.2,-20.57143 v 10.28572 h 39.3458 v 20.57143 h -39.3458 v 10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23234" />
+          </g>
+          <g
+             id="Feature-cca694b8-5cdb-4a08-bce4-60280f18927f"
+             style="fill:#00ff00"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 630.73885,493.27606 16.2,-20.57143 v 10.28572 h 40.88873 v 20.57143 h -40.88873 v 10.28571 z"
+               style="fill:#00ff00;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23237" />
+          </g>
+          <g
+             id="Feature-dec56d0c-9645-4950-8d5f-e4aa26c813c2"
+             style="fill:#00ff00;fill-opacity:1"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 720.57217,493.27606 -16.2,20.57143 v -10.28571 h -1.1152 v -20.57143 h 1.1152 v -10.28572 z"
+               style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23240" />
+          </g>
+          <g
+             id="Feature-225ac8be-9ccf-41ee-8639-f071251173a2"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 741.7733,493.27606 -16.2,20.57143 v -10.28571 h -1.62952 v -20.57143 h 1.62952 v -10.28572 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23243" />
+          </g>
+          <g
+             id="Feature-31eac1a0-b9bb-4d02-ba56-fea3312e7604"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 824.80626,493.27606 -16.2,20.57143 v -10.28571 h -64.54713 v -20.57143 h 64.54713 v -10.28572 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23246" />
+          </g>
+          <g
+             id="Feature-19553849-ea53-4b42-8b51-6551d85df37e"
+             style="fill:#00ff00;fill-opacity:1"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 872.40878,493.27606 -16.2,20.57143 v -10.28571 h -31.6311 v -20.57143 h 31.6311 v -10.28572 z"
+               style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23249" />
+          </g>
+          <g
+             id="Feature-876e897b-4876-4111-a67e-245fe4cddc32"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 907.83923,493.27606 -16.2,20.57143 v -10.28571 h -13.28728 v -20.57143 h 13.28728 v -10.28572 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23252" />
+          </g>
+          <g
+             id="Feature-67b96a74-c448-48b2-99b0-c0f04412a79f"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 986.12908,493.27606 -16.2,20.57143 v -10.28571 h -42.26023 v -20.57143 h 42.26023 v -10.28572 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23255" />
+          </g>
+          <g
+             id="Feature-aa25459f-e65c-475e-a820-167b9105cddc"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 1048.9896,493.27606 -16.2,20.57143 v -10.28571 h -46.54623 v -20.57143 h 46.54623 v -10.28572 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23258" />
+          </g>
+          <g
+             id="Feature-c57fefae-f490-4625-ab1f-8c7cfabdaadf"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 1173.6819,493.27606 -16.2,20.57143 v -10.28571 h -111.5211 v -20.57143 h 111.5211 v -10.28572 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23261" />
+          </g>
+          <g
+             id="Feature-aff2dfdf-2cb0-465b-99d7-e89366c56218"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 1253.3432,493.27606 -16.2,20.57143 v -10.28571 h -40.3744 v -20.57143 h 40.3744 v -10.28572 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23264" />
+          </g>
+          <g
+             id="Feature-1903dde2-2e31-4581-8280-e22a05e6b43e"
+             style="fill:#0000ff;fill-opacity:1"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 1311.7463,493.27606 -16.2,20.57143 v -10.28571 h -35.0598 v -20.57143 h 35.0598 v -10.28572 z"
+               style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23267" />
+          </g>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff00ff"
+             x="21.624573"
+             y="1208.037"
+             id="text23273">(92,761 - 111,660 bp)</text>
+          <g
+             id="text_5-5"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="270.00735"
+               y="467.70636"
+               transform="rotate(-90,270.00737,467.70637)"
+               id="text23276">BMC domain-containing protein</text>
+          </g>
+          <g
+             id="text_6-7"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="350.12589"
+               y="467.70636"
+               transform="rotate(-90,350.12589,467.70637)"
+               id="text23279">pyruvate, phosphate dikinase</text>
+          </g>
+          <g
+             id="text_7"
+             style="fill:#00ff00"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#00ff00"
+               x="438.702"
+               y="467.70636"
+               transform="rotate(-90,438.70201,467.70637)"
+               id="text23282">hypothetical protein</text>
+          </g>
+          <g
+             id="text_8"
+             style="fill:#00ff00"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#00ff00"
+               x="499.93381"
+               y="467.70636"
+               transform="rotate(-90,499.93382,467.70637)"
+               id="text23285">hypothetical protein</text>
+          </g>
+          <g
+             id="text_9"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+               x="554.53668"
+               y="467.70636"
+               transform="rotate(-90,554.53671,467.70637)"
+               id="text23288"><tspan
+                 style="fill:#00ff00"
+                 id="tspan103601">PEP-utilizing enzyme</tspan></text>
+          </g>
+          <g
+             id="text_10"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="598.2533"
+               y="467.70636"
+               transform="rotate(-90,598.25331,467.70637)"
+               id="text23291">HAD hydrolase-like protein</text>
+          </g>
+          <g
+             id="text_11"
+             style="fill:#00ff00"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#00ff00"
+               x="656.3421"
+               y="467.70636"
+               transform="rotate(-90,656.34209,467.70637)"
+               id="text23294">hypothetical protein</text>
+          </g>
+          <g
+             id="text_12"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+               x="708.97345"
+               y="467.70636"
+               transform="rotate(-90,708.97345,467.70637)"
+               id="text23297"><tspan
+                 style="fill:#00ff00"
+                 id="tspan105589">EutN/CcmL family microcompartment protein</tspan></text>
+          </g>
+          <g
+             id="text_13"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="729.91742"
+               y="467.70636"
+               transform="rotate(-90,729.91742,467.70637)"
+               id="text23300">BMC domain-containing protein</text>
+          </g>
+          <g
+             id="text_14"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="781.49158"
+               y="467.70636"
+               transform="rotate(-90,781.49157,467.70637)"
+               id="text23303">aldehyde dehydrogenase family protein</text>
+          </g>
+          <g
+             id="text_15"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+               x="845.55212"
+               y="467.70636"
+               transform="rotate(-90,845.55211,467.70637)"
+               id="text23306"><tspan
+                 style="fill:#00ff00"
+                 id="tspan107203">ethanolamine utilization protein EutJ</tspan></text>
+          </g>
+          <g
+             id="text_16"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="890.15448"
+               y="467.70636"
+               transform="rotate(-90,890.15447,467.70637)"
+               id="text23309">hypothetical protein</text>
+          </g>
+          <g
+             id="text_17"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="953.95782"
+               y="467.70636"
+               transform="rotate(-90,953.95784,467.70637)"
+               id="text23312">malate dehydrogenase</text>
+          </g>
+          <g
+             id="text_18"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="1014.6754"
+               y="467.70636"
+               transform="rotate(-90,1014.6753,467.70637)"
+               id="text23315">alcohol dehydrogenase catalytic domain-containing</text>
+          </g>
+          <g
+             id="text_19"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="1106.8802"
+               y="467.70636"
+               transform="rotate(-90,1106.8802,467.70637)"
+               id="text23318">helix-turn-helix domain-containing protein</text>
+          </g>
+          <g
+             id="text_20"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="1222.1149"
+               y="467.70636"
+               transform="rotate(-90,1222.1149,467.70637)"
+               id="text23321">tyrosine-type recombinase/integrase</text>
+          </g>
+          <g
+             id="text_21"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start"
+               x="1283.1753"
+               y="467.70636"
+               transform="rotate(-90,1283.1753,467.70637)"
+               id="text23324"><tspan
+                 style="fill:#0000ff"
+                 id="tspan111323">N-acetyltransferase</tspan></text>
+          </g>
+          <g
+             id="patch_8-4"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 233.975,692.1332 h 1080 v -41.14285 h -1080 z"
+               style="fill:none"
+               id="path23328" />
+          </g>
+          <g
+             id="LineCollection_6-1"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="M 534.50519,671.56178 H 1013.4448"
+               clip-path="url(#p9881ab448c-2)"
+               style="fill:none;stroke:#808080"
+               id="path23344-8" />
+          </g>
+          <g
+             id="TrackLabel_STC_genome_copy"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:end"
+               x="501.24023"
+               y="676.62573"
+               id="text23347">StC genome</text>
+          </g>
+          <g
+             id="Feature-3a36799b-47f6-4f4c-b959-d2c9750a406a"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 625.88145,671.56178 -16.2,20.57142 v -10.28571 h -57.51819 v -20.57143 h 57.51819 v -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23350-5" />
+          </g>
+          <g
+             id="Feature-8f8f715d-8127-4d97-9171-52321da80d40"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 713.94325,671.56178 -16.2,20.57142 v -10.28571 h -72.09038 v -20.57143 h 72.09038 v -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23353-9" />
+          </g>
+          <g
+             id="Feature-0903f609-b259-45b7-ba10-def84c0c366f"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 749.31655,671.56178 -16.2,20.57142 v -10.28571 h -18.4304 v -20.57143 h 18.4304 v -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23356-7" />
+          </g>
+          <g
+             id="Feature-2b633cba-6ca2-4afa-98a6-a43b906cef5c"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 774.74647,671.56178 -16.2,20.57142 v -10.28571 h -6.77265 v -20.57143 h 6.77265 v -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23359-5" />
+          </g>
+          <g
+             id="Feature-437c1290-54ca-4bb5-b538-6961f5484e7a"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 789.77584,671.56178 -15.08652,20.57142 v -10.28571 0 -20.57143 0 -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23362-3" />
+          </g>
+          <g
+             id="Feature-cdb65df4-3172-4ed4-864f-1c7f367bde79"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 805.94812,671.56178 -16.11514,20.57142 v -10.28571 0 -20.57143 0 -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23365-8" />
+          </g>
+          <g
+             id="Feature-4b23f527-0bea-4121-adab-7a20c25b1e51"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 813.37708,671.56178 -7.37181,20.57142 v -10.28571 0 -20.57143 0 -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23368-8" />
+          </g>
+          <g
+             id="Feature-7c6c5661-40b8-4780-8e75-c132594ca8f6"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 846.63599,671.56178 -16.2,20.57142 v -10.28571 h -16.37316 v -20.57143 h 16.37316 v -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23371-3" />
+          </g>
+          <g
+             id="Feature-e31744b2-ff4a-4d93-9ec2-08e6b5193c99"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 904.41047,671.56178 -16.2,20.57142 v -10.28571 h -40.71729 v -20.57143 h 40.71729 v -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23374-1" />
+          </g>
+          <g
+             id="Feature-7be6ca95-f548-414d-98c4-a5c6afb461b2"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 949.72716,671.56178 -16.2,20.57142 v -10.28571 h -27.85948 v -20.57143 h 27.85948 v -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23377-8" />
+          </g>
+          <g
+             id="Feature-e542a8d1-9b34-4c9a-8f75-b38889242d56"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <path
+               d="m 1002.8728,671.56178 -16.19998,20.57142 v -10.28571 h -29.74528 v -20.57143 h 29.74528 v -10.28571 z"
+               style="fill:#ff6600;stroke:#000000;stroke-width:0.5;stroke-linejoin:miter"
+               title=""
+               id="path23380-9" />
+          </g>
+          <text
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff0000"
+             x="300.36032"
+             y="1386.3231"
+             id="text23386">(284,416 - 292,797 bp)</text>
+          <g
+             id="text_23"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="586.08124"
+               y="720.99207"
+               transform="rotate(90,586.08123,720.99208)"
+               id="text23389">aminotransferase class III-fold pyridoxal phosphate-dependent</text>
+          </g>
+          <g
+             id="text_24"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="666.85693"
+               y="720.99207"
+               transform="rotate(90,666.85694,720.99208)"
+               id="text23392">aldehyde dehydrogenase family protein</text>
+          </g>
+          <g
+             id="text_25"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="729.06024"
+               y="720.99207"
+               transform="rotate(90,729.06023,720.99208)"
+               id="text23395">BMC domain-containing protein</text>
+          </g>
+          <g
+             id="text_26"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="760.31903"
+               y="720.99207"
+               transform="rotate(90,760.31902,720.99208)"
+               id="text23398">hypothetical protein</text>
+          </g>
+          <g
+             id="text_27"
+             transform="translate(-81.350608,678.6775)"
+             style="fill:#ff6600">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="779.29144"
+               y="720.99207"
+               transform="rotate(90,779.29146,720.99208)"
+               id="text23401">EutN/CcmL family microcompartment protein</text>
+          </g>
+          <g
+             id="text_28"
+             transform="translate(-81.350608,678.6775)"
+             style="fill:#ff6600">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="794.9494"
+               y="720.99207"
+               transform="rotate(90,794.94943,720.99208)"
+               id="text23404">BMC domain-containing protein</text>
+          </g>
+          <g
+             id="text_29"
+             transform="translate(-75.350608,678.6775)"
+             style="fill:#ff6600">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="806.75006"
+               y="720.99207"
+               transform="rotate(90,806.75005,720.99208)"
+               id="text23407">hypothetical protein</text>
+          </g>
+          <g
+             id="text_30"
+             transform="translate(-79.850608,678.6775)"
+             style="fill:#ff6600">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="827.40826"
+               y="720.99207"
+               transform="rotate(90,827.40829,720.99208)"
+               id="text23410">microcompartment protein</text>
+          </g>
+          <g
+             id="text_31"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="873.01068"
+               y="720.99207"
+               transform="rotate(90,873.0107,720.99208)"
+               id="text23413">phosphotransferase</text>
+          </g>
+          <g
+             id="text_32"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="924.75629"
+               y="720.99207"
+               transform="rotate(90,924.7563,720.99208)"
+               id="text23416">3-oxoacyl-ACP reductase FabG</text>
+          </g>
+          <g
+             id="text_33"
+             style="fill:#ff6600"
+             transform="translate(-78.350608,678.6775)">
+            <text
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:normal;font-family:'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', Verdana, Geneva, Lucid, Arial, Helvetica, 'Avant Garde', sans-serif;text-anchor:start;fill:#ff6600"
+               x="976.95905"
+               y="720.99207"
+               transform="rotate(90,976.95906,720.99208)"
+               id="text23419">GntR family transcriptional regulator</text>
+          </g>
+          <path
+             style="fill:#ff00ff;fill-rule:evenodd;stroke:#ff00ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 188.99425,1224.4898 19.223841,1224.0934"
+             id="path245030-8" />
+          <path
+             style="fill:#ff0000;fill-opacity:0;fill-rule:evenodd;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 467.72758,1400.681 -169.77041,-0.3964"
+             id="path245030-8-9" />
+          <g
+             id="g63631"
+             transform="translate(-10.5,-42)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:56px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="1091.8184"
+               y="1335.8798"
+               id="text35966-2-4"><tspan
+                 sodipodi:role="line"
+                 id="tspan35964-2-7"
+                 style="font-size:56px;stroke-width:0.75px"
+                 x="1091.8184"
+                 y="1335.8798">B</tspan></text>
+            <g
+               id="g339247"
+               transform="matrix(1.1174518,0,0,1.1174518,-119.25411,-181.14652)">
+              <g
+                 id="g126370-7"
+                 transform="matrix(2.8330665,0,0,2.7320593,1974.968,1754.2661)"
+                 style="stroke-linecap:butt;stroke-linejoin:round">
+                <polygon
+                   points="299.14,218.92 292.44,216.11 285.59,213.74 278.59,211.8 271.49,210.31 264.3,209.28 257.07,208.7 249.81,208.59 242.56,208.93 235.35,209.74 228.2,211 221.15,212.71 214.22,214.87 207.44,217.46 200.83,220.48 194.44,223.91 188.27,227.74 182.36,231.95 176.73,236.54 171.39,241.46 166.39,246.72 161.72,252.29 157.42,258.14 153.49,264.25 149.96,270.59 146.85,277.15 144.15,283.9 141.88,290.8 140.06,297.83 138.69,304.96 137.77,312.17 137.31,319.42 137.31,326.68 137.77,333.93 138.69,341.14 140.06,348.27 141.88,355.3 144.15,362.2 146.85,368.95 149.96,375.51 153.49,381.85 157.42,387.96 161.72,393.81 166.39,399.38 171.39,404.64 176.73,409.56 182.36,414.14 188.27,418.36 194.44,422.19 200.83,425.62 207.44,428.64 214.22,431.23 221.15,433.39 228.2,435.1 235.35,436.36 242.56,437.16 249.81,437.51 257.07,437.4 264.3,436.82 271.49,435.79 278.59,434.3 285.59,432.36 292.44,429.99 299.14,427.18 305.64,423.95 311.93,420.32 317.97,416.3 323.74,411.9 329.23,407.14 334.4,402.05 339.24,396.63 343.73,390.92 347.84,384.94 351.57,378.71 354.9,372.25 357.81,365.6 360.29,358.77 362.33,351.8 363.93,344.71 365.08,337.54 365.77,330.31 366,323.05 365.77,315.79 365.08,308.56 363.93,301.39 362.33,294.3 360.29,287.33 357.81,280.5 354.9,273.85 351.57,267.39 347.84,261.16 343.73,255.18 339.24,249.47 334.4,244.05 329.23,238.96 323.74,234.2 317.97,229.8 311.93,225.78 305.64,222.15 "
+                   style="fill:#008000;fill-opacity:0.334749;stroke:none;stroke-width:1.07;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                   id="polygon139467-3-7"
+                   transform="matrix(0.36020873,0,0,0.36020873,-314.47608,-145.23709)"
+                   inkscape:export-filename="3vennDiagram400DPI.png"
+                   inkscape:export-xdpi="400.04477"
+                   inkscape:export-ydpi="400.04477" />
+                <polyline
+                   points="289.75,180.64 289.52,173.38 288.83,166.15 287.68,158.98 286.08,151.89 284.04,144.92 281.56,138.09 278.65,131.44 275.32,124.98 271.59,118.75 267.48,112.77 262.99,107.06 258.15,101.64 252.98,96.55 247.49,91.79 241.72,87.39 235.68,83.37 229.39,79.74 222.89,76.51 216.19,73.70 209.34,71.33 202.34,69.39 195.24,67.90 188.05,66.87 180.82,66.30 173.56,66.18 166.31,66.53 159.10,67.33 151.95,68.59 144.90,70.30 137.97,72.46 131.19,75.05 124.58,78.07 118.19,81.50 112.02,85.33 106.11,89.55 100.48,94.13 95.14,99.05 90.14,104.31 85.47,109.88 81.17,115.73 77.24,121.84 73.71,128.19 70.60,134.74 67.90,141.49 65.63,148.39 63.81,155.42 62.44,162.55 61.52,169.76 61.06,177.01 61.06,184.27 61.52,191.52 62.44,198.73 63.81,205.86 65.63,212.89 67.90,219.79 70.60,226.54 73.71,233.10 77.24,239.44 81.17,245.55 85.47,251.40 90.14,256.97 95.14,262.23 100.48,267.16 106.11,271.74 112.02,275.95 118.19,279.78 124.58,283.21 131.19,286.23 137.97,288.82 144.90,290.98 151.95,292.69 159.10,293.95 166.31,294.76 173.56,295.10 180.82,294.99 188.05,294.41 195.24,293.38 202.34,291.89 209.34,289.95 216.19,287.58 222.89,284.77 229.39,281.55 235.68,277.91 241.72,273.89 247.49,269.49 252.98,264.73 258.15,259.64 262.99,254.22 267.48,248.51 271.59,242.53 275.32,236.30 278.65,229.84 281.56,223.19 284.04,216.36 286.08,209.39 287.68,202.31 288.83,195.13 289.52,187.90 289.75,180.64 289.75,180.64 "
+                   style="fill:none;stroke:#000000;stroke-width:2.13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                   id="polyline139469-8-6"
+                   transform="matrix(0.36020873,0,0,0.36020873,-310.15358,-128.66749)"
+                   inkscape:export-filename="3vennDiagram400DPI.png"
+                   inkscape:export-xdpi="400.04477"
+                   inkscape:export-ydpi="400.04477" />
+                <polyline
+                   points="442.25,180.64 442.02,173.38 441.33,166.15 440.18,158.98 438.58,151.89 436.54,144.92 434.06,138.09 431.15,131.44 427.82,124.98 424.09,118.75 419.98,112.77 415.49,107.06 410.65,101.64 405.48,96.55 399.99,91.79 394.22,87.39 388.18,83.37 381.89,79.74 375.39,76.51 368.69,73.70 361.84,71.33 354.84,69.39 347.74,67.90 340.55,66.87 333.32,66.30 326.06,66.18 318.81,66.53 311.60,67.33 304.45,68.59 297.40,70.30 290.47,72.46 283.69,75.05 277.08,78.07 270.69,81.50 264.52,85.33 258.61,89.55 252.98,94.13 247.64,99.05 242.64,104.31 237.97,109.88 233.67,115.73 229.74,121.84 226.21,128.19 223.10,134.74 220.40,141.49 218.13,148.39 216.31,155.42 214.94,162.55 214.02,169.76 213.56,177.01 213.56,184.27 214.02,191.52 214.94,198.73 216.31,205.86 218.13,212.89 220.40,219.79 223.10,226.54 226.21,233.10 229.74,239.44 233.67,245.55 237.97,251.40 242.64,256.97 247.64,262.23 252.98,267.16 258.61,271.74 264.52,275.95 270.69,279.78 277.08,283.21 283.69,286.23 290.47,288.82 297.40,290.98 304.45,292.69 311.60,293.95 318.81,294.76 326.06,295.10 333.32,294.99 340.55,294.41 347.74,293.38 354.84,291.89 361.84,289.95 368.69,287.58 375.39,284.77 381.89,281.55 388.18,277.91 394.22,273.89 399.99,269.49 405.48,264.73 410.65,259.64 415.49,254.22 419.98,248.51 424.09,242.53 427.82,236.30 431.15,229.84 434.06,223.19 436.54,216.36 438.58,209.39 440.18,202.31 441.33,195.13 442.02,187.90 442.25,180.64 442.25,180.64 "
+                   style="fill:none;stroke:#000000;stroke-width:2.13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                   id="polyline139471-6-4"
+                   transform="matrix(0.36020873,0,0,0.36020873,-319.51901,-128.66749)"
+                   inkscape:export-filename="3vennDiagram400DPI.png"
+                   inkscape:export-xdpi="400.04477"
+                   inkscape:export-ydpi="400.04477" />
+                <polyline
+                   points="366.00,323.05 365.77,315.79 365.08,308.56 363.93,301.39 362.33,294.30 360.29,287.33 357.81,280.50 354.90,273.85 351.57,267.39 347.84,261.16 343.73,255.18 339.24,249.47 334.40,244.05 329.23,238.96 323.74,234.20 317.97,229.80 311.93,225.78 305.64,222.15 299.14,218.92 292.44,216.11 285.59,213.74 278.59,211.80 271.49,210.31 264.30,209.28 257.07,208.70 249.81,208.59 242.56,208.93 235.35,209.74 228.20,211.00 221.15,212.71 214.22,214.87 207.44,217.46 200.83,220.48 194.44,223.91 188.27,227.74 182.36,231.95 176.73,236.54 171.39,241.46 166.39,246.72 161.72,252.29 157.42,258.14 153.49,264.25 149.96,270.59 146.85,277.15 144.15,283.90 141.88,290.80 140.06,297.83 138.69,304.96 137.77,312.17 137.31,319.42 137.31,326.68 137.77,333.93 138.69,341.14 140.06,348.27 141.88,355.30 144.15,362.20 146.85,368.95 149.96,375.51 153.49,381.85 157.42,387.96 161.72,393.81 166.39,399.38 171.39,404.64 176.73,409.56 182.36,414.14 188.27,418.36 194.44,422.19 200.83,425.62 207.44,428.64 214.22,431.23 221.15,433.39 228.20,435.10 235.35,436.36 242.56,437.16 249.81,437.51 257.07,437.40 264.30,436.82 271.49,435.79 278.59,434.30 285.59,432.36 292.44,429.99 299.14,427.18 305.64,423.95 311.93,420.32 317.97,416.30 323.74,411.90 329.23,407.14 334.40,402.05 339.24,396.63 343.73,390.92 347.84,384.94 351.57,378.71 354.90,372.25 357.81,365.60 360.29,358.77 362.33,351.80 363.93,344.71 365.08,337.54 365.77,330.31 366.00,323.05 366.00,323.05 "
+                   style="fill:none;stroke:#000000;stroke-width:2.13;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                   id="polyline139473-0-3"
+                   transform="matrix(0.36020873,0,0,0.36020873,-314.47608,-145.23709)"
+                   inkscape:export-filename="3vennDiagram400DPI.png"
+                   inkscape:export-xdpi="400.04477"
+                   inkscape:export-ydpi="400.04477" />
+                <text
+                   xml:space="preserve"
+                   style="font-size:7.68445px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;stroke:#000000;stroke-width:0.360209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   x="-273.68121"
+                   y="-119.7845"
+                   id="text184927-3-5-6-0-2-4-0"
+                   inkscape:export-filename="3vennDiagram400DPI.png"
+                   inkscape:export-xdpi="400.04477"
+                   inkscape:export-ydpi="400.04477"><tspan
+                     sodipodi:role="line"
+                     id="tspan184925-6-3-2-9-6-8-3"
+                     x="-273.68121"
+                     y="-119.7845"
+                     style="font-size:7.68445px;fill:#808080;stroke-width:0.360209px" /><tspan
+                     sodipodi:role="line"
+                     x="-273.68121"
+                     y="-109.05791"
+                     id="tspan184929-7-5-9-3-1-8-0"
+                     style="font-size:12px;fill:#808080;fill-opacity:0.517765;stroke-width:0.360209px">UBT1 scaffold</tspan></text>
+                <text
+                   xml:space="preserve"
+                   style="font-size:14px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:0.928818;stroke:#000000;stroke-width:0.360209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   x="-177.99469"
+                   y="-127.3438"
+                   id="text184927-3-5-6-0-2-8-8-9"
+                   inkscape:export-filename="3vennDiagram400DPI.png"
+                   inkscape:export-xdpi="400.04477"
+                   inkscape:export-ydpi="400.04477"><tspan
+                     sodipodi:role="line"
+                     id="tspan184925-6-3-2-9-6-7-9-2"
+                     x="-177.99469"
+                     y="-127.3438"
+                     style="font-size:14px;fill:#808080;fill-opacity:0.928818;stroke-width:0.360209px" /><tspan
+                     sodipodi:role="line"
+                     x="-177.99469"
+                     y="-109.8438"
+                     id="tspan184929-7-5-9-3-1-9-7-5"
+                     style="font-size:14px;fill:#b3b3b3;fill-opacity:0.928818;stroke-width:0.360209px">H1 scaffold</tspan></text>
+                <text
+                   xml:space="preserve"
+                   style="font-size:14px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:0.377805;stroke:#000000;stroke-width:0.360209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                   x="-223.27786"
+                   y="10.972947"
+                   id="text184927-3-5-6-0-2-8-2-7-4"
+                   inkscape:export-filename="3vennDiagram400DPI.png"
+                   inkscape:export-xdpi="400.04477"
+                   inkscape:export-ydpi="400.04477"><tspan
+                     sodipodi:role="line"
+                     id="tspan184925-6-3-2-9-6-7-0-6-0"
+                     x="-223.27786"
+                     y="10.972947"
+                     style="font-size:14px;fill:#000000;fill-opacity:0.377805;stroke-width:0.360209px" /><tspan
+                     sodipodi:role="line"
+                     x="-223.27786"
+                     y="28.472946"
+                     id="tspan184929-7-5-9-3-1-9-2-4-5"
+                     style="font-size:14px;fill:#4d4d4d;fill-opacity:0.377805;stroke-width:0.360209px">StC genome</tspan></text>
+                <path
+                   style="fill:#00ff00;stroke:none;stroke-width:0.341683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+                   d="m -227.34699,11.62422 c -14.93594,-1.33854 -28.31477,-11.16034 -34.00784,-24.96618 -0.97543,-2.36545 -2.48774,-8.06152 -2.86721,-10.79933 l -0.19797,-1.42831 2.0735,0.84254 c 1.14042,0.4634 3.71595,1.25236 5.72341,1.75323 3.19244,0.79656 4.35653,0.9128 9.28767,0.92746 8.05674,0.024 13.22952,-1.18428 19.81527,-4.62831 l 3.28849,-1.71973 3.37818,1.73562 c 10.39819,5.34232 22.159,6.25863 32.80002,2.55552 1.87925,-0.65399 3.70846,-1.28601 4.0649,-1.4045 0.60597,-0.20144 0.63243,-0.0774 0.40776,1.90857 -1.55518,13.74596 -11.33838,26.58916 -24.53021,32.20279 -3.08008,1.31069 -8.12627,2.60495 -11.13157,2.85504 -4.68676,0.39004 -5.43039,0.40523 -8.1044,0.16559 z"
+                   id="path38736-3-9" />
+                <path
+                   style="fill:#00ffff;stroke:none;stroke-width:0.341683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+                   d="m -207.18771,-23.38112 c -4.47923,-0.70411 -7.97068,-1.80713 -12.12566,-3.83077 l -3.92528,-1.91176 1.19181,-0.88997 c 2.34974,-1.7546 6.61986,-6.07179 8.52284,-8.61678 4.97734,-6.65658 8.21554,-16.02879 8.21554,-23.77799 0,-1.37633 0.11532,-2.49361 0.25627,-2.48285 0.14094,0.0108 1.28877,0.66423 2.55073,1.45215 8.91807,5.56817 15.43042,14.48825 18.05118,24.72505 0.75555,2.95113 1.59311,10.26507 1.27151,11.10313 -0.24897,0.64892 -5.36091,2.71621 -8.63322,3.49132 -5.30896,1.25755 -10.49046,1.50641 -15.37572,0.73847 z"
+                   id="path38812-0-4" />
+                <path
+                   style="fill:#ff6600;stroke:none;stroke-width:0.341683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+                   d="m -226.41057,-31.58935 c -3.89741,-2.92974 -8.13925,-7.97426 -10.81821,-12.86536 -2.55562,-4.66591 -4.31617,-11.05334 -4.81062,-17.45339 l -0.22997,-2.97675 1.14006,-0.7008 c 1.55892,-0.95828 7.75663,-2.91864 10.87801,-3.44076 3.14197,-0.52556 9.62865,-0.537 12.69293,-0.0224 2.81734,0.47315 7.44734,1.80626 9.60188,2.76466 l 1.62299,0.72195 -0.002,2.29037 c -0.009,10.03278 -4.23497,20.22851 -11.51519,27.78057 -2.58375,2.68024 -5.79939,5.43208 -6.3476,5.43208 -0.0971,0 -1.09264,-0.68858 -2.21222,-1.53018 z"
+                   id="path38888-3-6" />
+                <path
+                   style="fill:#0000ff;stroke:none;stroke-width:0.341683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
+                   d="m -253.14403,-23.40546 c -3.16029,-0.49559 -7.96033,-1.90836 -9.99422,-2.94155 l -1.28132,-0.65089 v -2.68176 c 0,-7.07141 2.4432,-14.95428 6.63298,-21.4011 2.48776,-3.8279 7.94397,-9.32443 11.64705,-11.7331 l 2.73346,-1.77798 0.42185,4.19697 c 0.60981,6.067 1.77534,10.29773 4.16841,15.13083 2.98919,6.03702 6.67817,10.6298 11.95831,14.88808 l 1.51373,1.22077 -1.85581,1.06176 c -7.4273,4.24932 -17.33061,6.03878 -25.94444,4.68797 z"
+                   id="path39001-0-9" />
+              </g>
+              <text
+                 xml:space="preserve"
+                 style="font-size:16px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="1341.5488"
+                 y="1728.6085"
+                 id="text184927"
+                 inkscape:export-filename="3vennDiagram400DPI.png"
+                 inkscape:export-xdpi="400.04477"
+                 inkscape:export-ydpi="400.04477"><tspan
+                   sodipodi:role="line"
+                   id="tspan184925"
+                   x="1341.5488"
+                   y="1728.6085"
+                   style="font-size:16px;fill:#000000;stroke-width:0.75px">208</tspan><tspan
+                   sodipodi:role="line"
+                   x="1341.5488"
+                   y="1748.6085"
+                   id="tspan184929"
+                   style="font-size:16px;stroke-width:0.75px">(214)</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="1354.7598"
+                 y="1346.6659"
+                 id="text184927-37"
+                 inkscape:export-filename="3vennDiagram400DPI.png"
+                 inkscape:export-xdpi="400.04477"
+                 inkscape:export-ydpi="400.04477"><tspan
+                   sodipodi:role="line"
+                   id="tspan184925-5"
+                   x="1354.7598"
+                   y="1346.6659"
+                   style="font-size:40px;fill:#000000;stroke-width:0.75px">Orthogroups</tspan><tspan
+                   sodipodi:role="line"
+                   x="1354.7598"
+                   y="1396.6659"
+                   id="tspan184929-9"
+                   style="font-size:40px;stroke-width:0.75px">(proteins)</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:16px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="1340.2494"
+                 y="1595.6899"
+                 id="text184927-3"
+                 inkscape:export-filename="3vennDiagram400DPI.png"
+                 inkscape:export-xdpi="400.04477"
+                 inkscape:export-ydpi="400.04477"><tspan
+                   sodipodi:role="line"
+                   id="tspan184925-6"
+                   x="1340.2494"
+                   y="1595.6899"
+                   style="font-size:16px;fill:#000000;stroke-width:0.75px">3295</tspan><tspan
+                   sodipodi:role="line"
+                   x="1340.2494"
+                   y="1615.6899"
+                   id="tspan184929-7"
+                   style="font-size:16px;stroke-width:0.75px">(10472)</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:16px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="1341.5723"
+                 y="1530.701"
+                 id="text184927-3-5"
+                 inkscape:export-filename="3vennDiagram400DPI.png"
+                 inkscape:export-xdpi="400.04477"
+                 inkscape:export-ydpi="400.04477"><tspan
+                   sodipodi:role="line"
+                   id="tspan184925-6-3"
+                   x="1341.5723"
+                   y="1530.701"
+                   style="font-size:16px;fill:#000000;stroke-width:0.75px">519</tspan><tspan
+                   sodipodi:role="line"
+                   x="1341.5723"
+                   y="1550.701"
+                   id="tspan184929-7-5"
+                   style="font-size:16px;stroke-width:0.75px">(1217)</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:16px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="1448.9574"
+                 y="1532.5247"
+                 id="text184927-3-5-6"
+                 inkscape:export-filename="3vennDiagram400DPI.png"
+                 inkscape:export-xdpi="400.04477"
+                 inkscape:export-ydpi="400.04477"><tspan
+                   sodipodi:role="line"
+                   id="tspan184925-6-3-2"
+                   x="1448.9574"
+                   y="1532.5247"
+                   style="font-size:16px;fill:#000000;stroke-width:0.75px">113</tspan><tspan
+                   sodipodi:role="line"
+                   x="1448.9574"
+                   y="1552.5247"
+                   id="tspan184929-7-5-9"
+                   style="font-size:16px;stroke-width:0.75px">(113)</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:16px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="1239.8925"
+                 y="1529.4971"
+                 id="text184927-3-5-6-0"
+                 inkscape:export-filename="3vennDiagram400DPI.png"
+                 inkscape:export-xdpi="400.04477"
+                 inkscape:export-ydpi="400.04477"><tspan
+                   sodipodi:role="line"
+                   id="tspan184925-6-3-2-9"
+                   x="1239.8925"
+                   y="1529.4971"
+                   style="font-size:16px;fill:#000000;stroke-width:0.75px">117</tspan><tspan
+                   sodipodi:role="line"
+                   x="1239.8925"
+                   y="1549.4971"
+                   id="tspan184929-7-5-9-3"
+                   style="font-size:16px;stroke-width:0.75px">(122)</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:16px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="1416.7838"
+                 y="1647.928"
+                 id="text184927-3-5-6-1"
+                 inkscape:export-filename="3vennDiagram400DPI.png"
+                 inkscape:export-xdpi="400.04477"
+                 inkscape:export-ydpi="400.04477"><tspan
+                   sodipodi:role="line"
+                   id="tspan184925-6-3-2-2"
+                   x="1416.7838"
+                   y="1647.928"
+                   style="font-size:16px;fill:#000000;stroke-width:0.75px">30</tspan><tspan
+                   sodipodi:role="line"
+                   x="1416.7838"
+                   y="1667.928"
+                   id="tspan184929-7-5-9-7"
+                   style="font-size:16px;stroke-width:0.75px">(64)</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:16px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 x="1274.9673"
+                 y="1651.7242"
+                 id="text184927-3-5-6-1-6"
+                 inkscape:export-filename="3vennDiagram400DPI.png"
+                 inkscape:export-xdpi="400.04477"
+                 inkscape:export-ydpi="400.04477"><tspan
+                   sodipodi:role="line"
+                   id="tspan184925-6-3-2-2-0"
+                   x="1274.9673"
+                   y="1651.7242"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.75px">358</tspan><tspan
+                   sodipodi:role="line"
+                   x="1274.9673"
+                   y="1671.7242"
+                   id="tspan184929-7-5-9-7-6"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.75px">(773)</tspan></text>
+            </g>
+            <rect
+               style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:5.14779;stroke-miterlimit:4;stroke-dasharray:20.5913, 41.1824;stroke-dashoffset:0;stroke-opacity:1"
+               id="rect62542"
+               width="586.99335"
+               height="612.46808"
+               x="1077.1321"
+               y="1276.447" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <defs
+     id="defs42323">
+    <clipPath
+       id="pe7dc334e05">
+      <rect
+         x="188.34375"
+         y="74.117645"
+         width="1080"
+         height="127.05882"
+         id="rect42308" />
+    </clipPath>
+    <clipPath
+       id="p66a1dda2d5">
+      <rect
+         x="188.34375"
+         y="239.29411"
+         width="1080"
+         height="127.05882"
+         id="rect42311" />
+    </clipPath>
+    <clipPath
+       id="p204580d226">
+      <rect
+         x="188.34375"
+         y="36"
+         width="1080"
+         height="38.117645"
+         id="rect42314" />
+    </clipPath>
+    <clipPath
+       id="p5fea599729">
+      <rect
+         x="188.34375"
+         y="201.17647"
+         width="1080"
+         height="38.117645"
+         id="rect42317" />
+    </clipPath>
+    <clipPath
+       id="pb587c74f1a">
+      <rect
+         x="188.34375"
+         y="366.35294"
+         width="1080"
+         height="38.117645"
+         id="rect42320" />
+    </clipPath>
+  </defs>
+</svg>
